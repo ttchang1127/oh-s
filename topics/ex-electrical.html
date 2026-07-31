@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>防爆電氣設備｜職安主題整理</title>
+<meta name="description" content="職業安全衛生設施規則 §177 系列防爆電氣設備：Zone 危險區域劃分、9 種防爆型式、氣體組別、溫度等級、EPL 與銘牌判讀。">
+<link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+<div class="wrap">
+
+  <a class="backlink" href="../index.html">← 回主題總覽</a>
+
+  <p class="eyebrow">職業安全衛生設施規則 · 第八章</p>
+  <h1>防爆電氣設備</h1>
+  <p class="lede">
+    危險區域劃分（Zone）→ 選對防爆型式、氣體組別、溫度等級與 EPL。
+    本頁對應設施規則 <strong>§177／§177-1／§177-2／§177-3</strong>，並整理 CNS 3376（＝IEC 60079）之技術分類。
+  </p>
+
+  <div class="meta-grid">
+    <div class="meta-card">
+      <span class="k">主要法條</span>
+      <div class="v">§177 Ⅰ 三 <small>設施規則</small></div>
+    </div>
+    <div class="meta-card">
+      <span class="k">法規編號</span>
+      <div class="v">N0060009</div>
+    </div>
+    <div class="meta-card">
+      <span class="k">技術標準</span>
+      <div class="v">CNS 3376 <small>＝ IEC 60079</small></div>
+    </div>
+    <div class="meta-card">
+      <span class="k">完整標示</span>
+      <div class="v">Ex d IIC T6 Gb</div>
+    </div>
+  </div>
+
+  <div class="callout danger">
+    <div class="callout-title">⚠️ 條文易錯提醒</div>
+    <p>防爆電氣設備規定在 <strong>第八章「爆炸、火災及腐蝕、洩漏之防止」（§177 系列）</strong>，
+    <strong>不是 §277／§278</strong>——§277 是「個人防護具供給及管理」，屬第十一章 防護具。</p>
+  </div>
+
+  <!-- tabs -->
+  <div class="tab-strip" role="tablist">
+    <button class="tab-button active" role="tab" data-tab="t1"><b>① 法規依據</b><span>§177 系列四條</span></button>
+    <button class="tab-button" role="tab" data-tab="t2"><b>② 危險區域</b><span>Zone 0–2／20–22</span></button>
+    <button class="tab-button" role="tab" data-tab="t3"><b>③ 防爆型式</b><span>ia／ib／d／e…9 種</span></button>
+    <button class="tab-button" role="tab" data-tab="t4"><b>④ 組別・溫度・EPL</b><span>IIA–IIC／T1–T6</span></button>
+    <button class="tab-button" role="tab" data-tab="t5"><b>⑤ 銘牌判讀</b><span>四項缺一不可</span></button>
+    <button class="tab-button" role="tab" data-tab="t6"><b>⑥ 選用原則</b><span>三項匹配</span></button>
+    <button class="tab-button" role="tab" data-tab="t7"><b>⑦ 考點總整理</b><span>六大考點</span></button>
+  </div>
+
+  <!-- ① 法規依據 -->
+  <section class="tab-page active" id="t1">
+    <div class="panel">
+      <h2>一、法規依據</h2>
+      <div class="table-scroll">
+        <table>
+          <thead><tr><th>條文</th><th>規定內容</th></tr></thead>
+          <tbody>
+            <tr>
+              <td><span class="pill dark">§177 Ⅰ 三</span></td>
+              <td>作業場所有<strong>易燃液體之蒸氣、可燃性氣體</strong>或<strong>（爆燃性粉塵以外之）可燃性粉塵</strong>滯留而有爆炸、火災之虞者，除通風、換氣、除塵外，使用之電氣機械、器具或設備應具有<strong>適合於其設置場所危險區域劃分使用之防爆性能構造</strong>。<br>
+              <small>同條另定：作業前應指定專人測定濃度；達<strong>爆炸下限 30%</strong> 以上應即刻使勞工退避並停止使用煙火。</small></td>
+            </tr>
+            <tr>
+              <td><span class="pill">§177 Ⅱ</span></td>
+              <td>「電氣機械、器具或設備」之定義＝<strong>電動機、變壓器、連接裝置、開關、分電盤、配電盤</strong>等電流流通之機械器具設備，及非屬配線或移動電線之其他類似設備。</td>
+            </tr>
+            <tr>
+              <td><span class="pill rust">§177-1</span></td>
+              <td>有<strong>爆燃性粉塵</strong>存在而有爆炸、火災之虞之場所，使用之電氣機械、器具或設備應具有適合於其設置場所危險區域劃分使用之防爆性能構造。</td>
+            </tr>
+            <tr>
+              <td><span class="pill rust">§177-2</span></td>
+              <td>前二條所定應有防爆性能構造者，於中央主管機關公告後<strong>新安裝或換裝</strong>者，應使用符合中央主管機關<strong>指定之國家標準、國際標準或團體標準</strong>之<strong>合格品</strong>。<br>
+              合格品＝符合<strong>職安法 §7</strong> 規定並<strong>張貼安全標示</strong>者。</td>
+            </tr>
+            <tr>
+              <td><span class="pill rust">§177-3</span></td>
+              <td>具防爆性能構造之<strong>移動式或攜帶式</strong>電氣機械、器具、設備，應於<strong>每次使用前</strong>檢查外部結構狀況、連接之移動電線情況及防爆結構與移動電線連接狀態；遇有損壞應即修復。</td>
+            </tr>
+            <tr>
+              <td><span class="pill teal">CNS 3376 系列</span></td>
+              <td>等同 IEC 60079 系列，即 §177-2 所稱之指定標準。通則為 <strong>CNS 3376-0（IEC 60079-0）</strong>，各部對應各防爆型式技術要求。</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="callout warn">
+        <div class="callout-title">三條的義務區分（最易混淆）</div>
+        <ul>
+          <li><strong>§177 Ⅰ三</strong>管的是「蒸氣／可燃性氣體／<u>爆燃性粉塵以外</u>之可燃性粉塵」；<strong>§177-1</strong> 才是<u>爆燃性粉塵</u>。</li>
+          <li><strong>§177-2</strong> 只在「<u>新安裝或換裝</u>」時要求合格品，非既有設備全面更換。</li>
+          <li><strong>§177-3</strong> 只針對「<u>移動式／攜帶式</u>」，頻率是「<u>每次使用前</u>」——不是定期檢查。</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ② 危險區域 -->
+  <section class="tab-page" id="t2">
+    <div class="grid-2">
+      <div class="panel">
+        <h2>氣體／蒸氣危險場所</h2>
+        <div class="card hot" style="margin-bottom:.7rem">
+          <div class="card-title">Zone 0 <span class="pill red">&gt; 1,000 小時/年</span></div>
+          <p>爆炸性氣體環境<strong>連續</strong>存在。</p>
+          <p>典型：儲槽內部、通風不良之封閉容器內。</p>
+        </div>
+        <div class="card warm" style="margin-bottom:.7rem">
+          <div class="card-title">Zone 1 <span class="pill rust">10～1,000 小時/年</span></div>
+          <p>正常操作中<strong>偶爾</strong>出現。</p>
+          <p>典型：儲槽通氣孔附近、泵浦區。</p>
+        </div>
+        <div class="card accent">
+          <div class="card-title">Zone 2 <span class="pill teal">&lt; 10 小時/年</span></div>
+          <p>正常操作中<strong>不大可能</strong>出現，即使出現也很短暫。</p>
+          <p>典型：管線法蘭附近、Zone 1 外圍。</p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>粉塵危險場所</h2>
+        <div class="card hot" style="margin-bottom:.7rem">
+          <div class="card-title">Zone 20 <span class="pill red">連續</span></div>
+          <p>爆炸性粉塵雲<strong>連續</strong>存在。</p>
+          <p>典型：粉塵收集容器內部。</p>
+        </div>
+        <div class="card warm" style="margin-bottom:.7rem">
+          <div class="card-title">Zone 21 <span class="pill rust">偶爾</span></div>
+          <p>正常操作中<strong>偶爾</strong>出現。</p>
+          <p>典型：袋裝粉料作業區。</p>
+        </div>
+        <div class="card accent">
+          <div class="card-title">Zone 22 <span class="pill teal">不大可能</span></div>
+          <p>正常操作中<strong>不大可能</strong>出現。</p>
+          <p>典型：Zone 21 外圍。</p>
+        </div>
+        <div class="callout" style="margin-bottom:0">
+          <div class="callout-title">對應口訣</div>
+          <p>氣體 <strong>0／1／2</strong>　←→　粉塵 <strong>20／21／22</strong>，危險程度一一對應（連續／偶爾／不大可能）。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ③ 防爆型式 -->
+  <section class="tab-page" id="t3">
+    <div class="panel">
+      <h2>三、九種防爆型式</h2>
+      <div class="table-scroll">
+        <table>
+          <thead><tr><th>符號</th><th>型式名稱</th><th>適用 Zone</th><th>防爆原理</th></tr></thead>
+          <tbody>
+            <tr><td><span class="pill red">ia</span></td><td>本質安全型 a</td><td><strong>0</strong>、1、2</td><td>限制電路能量；<strong>兩個故障</strong>仍安全</td></tr>
+            <tr><td><span class="pill">ib</span></td><td>本質安全型 b</td><td>1、2</td><td>限制電路能量；<strong>一個故障</strong>仍安全</td></tr>
+            <tr><td><span class="pill">d</span></td><td>隔爆型</td><td>1、2</td><td>堅固外殼承受內部爆炸，不引燃外部氣體</td></tr>
+            <tr><td><span class="pill">e</span></td><td>增安型</td><td>1、2</td><td>提高安全措施，避免產生火花或高溫</td></tr>
+            <tr><td><span class="pill">p</span></td><td>正壓型</td><td>1、2</td><td>保護氣體維持殼內正壓，阻止危險氣體進入</td></tr>
+            <tr><td><span class="pill">q</span></td><td>充砂型</td><td>1、2</td><td>砂粒填充，阻止電弧引燃外部氣體</td></tr>
+            <tr><td><span class="pill">m</span></td><td>澆封型</td><td>1、2</td><td>樹脂澆封，使點火源不接觸爆炸氣體</td></tr>
+            <tr><td><span class="pill">o</span></td><td>充油型</td><td>1、2</td><td>電弧浸入油中，不接觸爆炸氣體</td></tr>
+            <tr><td><span class="pill teal">n</span></td><td>無火花型</td><td><strong>僅 2</strong></td><td>正常操作不產生火花或高溫，不作保護故障考慮</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>防爆型式 × Zone 適用對照</h2>
+      <div class="ladder">
+        <div class="rung z0">
+          <span class="zone">Zone 0</span>
+          <span class="types"><span class="pill red">ia ✓</span></span>
+          <span style="color:var(--ink-faint);font-size:.85rem">其他型式全部不適用</span>
+        </div>
+        <div class="rung z1">
+          <span class="zone">Zone 1</span>
+          <span class="types">
+            <span class="pill rust">ia</span><span class="pill rust">ib</span><span class="pill rust">d</span>
+            <span class="pill rust">e</span><span class="pill rust">p</span><span class="pill rust">q</span>
+            <span class="pill rust">m</span><span class="pill rust">o</span>
+          </span>
+          <span style="color:var(--ink-faint);font-size:.85rem">n ✗</span>
+        </div>
+        <div class="rung z2">
+          <span class="zone">Zone 2</span>
+          <span class="types">
+            <span class="pill teal">ia</span><span class="pill teal">ib</span><span class="pill teal">d</span>
+            <span class="pill teal">e</span><span class="pill teal">p</span><span class="pill teal">q</span>
+            <span class="pill teal">m</span><span class="pill teal">o</span><span class="pill teal">n</span>
+          </span>
+          <span style="color:var(--ink-faint);font-size:.85rem">全部可用</span>
+        </div>
+      </div>
+
+      <div class="callout danger">
+        <div class="callout-title">關鍵記憶</div>
+        <ul>
+          <li><strong>Zone 0 只能用 ia</strong>（本質安全型 a）——因為要求兩個故障仍安全。</li>
+          <li><strong>n 型（無火花型）只能用 Zone 2</strong>——不考慮保護故障，保護程度最低。</li>
+          <li><strong>d 型（隔爆型）</strong>最常見，適用 Zone 1、Zone 2，但<strong>不適用 Zone 0</strong>。</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ④ 組別・溫度・EPL -->
+  <section class="tab-page" id="t4">
+    <div class="grid-2">
+      <div class="panel">
+        <h2>四、氣體分組</h2>
+        <div class="table-scroll">
+          <table style="min-width:0">
+            <thead><tr><th>群組</th><th>代表氣體</th><th>危險</th></tr></thead>
+            <tbody>
+              <tr><td><span class="pill">I</span></td><td>甲烷（礦山專用）</td><td>—</td></tr>
+              <tr><td><span class="pill teal">IIA</span></td><td>丙烷、乙烷、甲醇、丙酮</td><td>低</td></tr>
+              <tr><td><span class="pill rust">IIB</span></td><td>乙烯、乙醚、城市煤氣</td><td>中</td></tr>
+              <tr><td><span class="pill red">IIC</span></td><td>氫氣（H₂）、乙炔（C₂H₂）</td><td><strong>最高</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="callout">
+          <div class="callout-title">向上相容原則</div>
+          <p><strong>IIC 設備</strong>可用於 IIC／IIB／IIA 環境</p>
+          <p><strong>IIB 設備</strong>只能用於 IIB／IIA 環境</p>
+          <p><strong>IIA 設備</strong>只能用於 IIA 環境</p>
+          <p style="margin-top:.5rem"><small>亦即：設備等級<strong>高</strong>於或等於現場需求即可，反之不行。</small></p>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h2>五、溫度等級</h2>
+        <div class="table-scroll">
+          <table style="min-width:0">
+            <thead><tr><th>等級</th><th>最高表面溫度</th><th>說明</th></tr></thead>
+            <tbody>
+              <tr><td><span class="pill">T1</span></td><td>≤ 450 °C</td><td>最寬鬆</td></tr>
+              <tr><td><span class="pill">T2</span></td><td>≤ 300 °C</td><td></td></tr>
+              <tr><td><span class="pill">T3</span></td><td>≤ 200 °C</td><td></td></tr>
+              <tr><td><span class="pill">T4</span></td><td>≤ 135 °C</td><td></td></tr>
+              <tr><td><span class="pill">T5</span></td><td>≤ 100 °C</td><td></td></tr>
+              <tr><td><span class="pill red">T6</span></td><td>≤ 85 °C</td><td><strong>最嚴格</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="callout warn">
+          <div class="callout-title">數字越大越嚴格</div>
+          <p>T6（≤85 °C）比 T1（≤450 °C）嚴格。選用原則：設備表面最高溫度必須<strong>低於</strong>現場可燃物的<strong>引燃溫度（AIT）</strong>。</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>六、設備保護等級（EPL）</h2>
+      <div class="grid-3">
+        <div class="card hot"><div class="card-title">Ga <span class="pill red">Zone 0</span></div><p>氣體，極高保護（含兩個獨立故障安全）</p></div>
+        <div class="card warm"><div class="card-title">Gb <span class="pill rust">Zone 1</span></div><p>氣體，高保護</p></div>
+        <div class="card accent"><div class="card-title">Gc <span class="pill teal">Zone 2</span></div><p>氣體，增強保護</p></div>
+        <div class="card hot"><div class="card-title">Da <span class="pill red">Zone 20</span></div><p>粉塵，極高保護</p></div>
+        <div class="card warm"><div class="card-title">Db <span class="pill rust">Zone 21</span></div><p>粉塵，高保護</p></div>
+        <div class="card accent"><div class="card-title">Dc <span class="pill teal">Zone 22</span></div><p>粉塵，增強保護</p></div>
+      </div>
+      <div class="callout">
+        <div class="callout-title">記法</div>
+        <p><strong>G</strong>as／<strong>D</strong>ust＋<strong>a</strong>（最危險 Zone 0/20）→ <strong>b</strong>（Zone 1/21）→ <strong>c</strong>（Zone 2/22）。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ⑤ 銘牌判讀 -->
+  <section class="tab-page" id="t5">
+    <div class="panel">
+      <h2>七、防爆標示完整解讀</h2>
+      <div class="marking">
+        <div class="mark-part">
+          <div class="sym">Ex</div>
+          <div class="lbl">防爆標誌</div>
+          <div class="desc">Explosion-proof</div>
+        </div>
+        <div class="mark-part">
+          <div class="sym">d</div>
+          <div class="lbl">防爆型式</div>
+          <div class="desc">隔爆型</div>
+        </div>
+        <div class="mark-part">
+          <div class="sym">IIC</div>
+          <div class="lbl">氣體組別</div>
+          <div class="desc">適用氫／乙炔（最危險）</div>
+        </div>
+        <div class="mark-part">
+          <div class="sym">T6</div>
+          <div class="lbl">溫度等級</div>
+          <div class="desc">表面溫度 ≤ 85 °C</div>
+        </div>
+        <div class="mark-part">
+          <div class="sym">Gb</div>
+          <div class="lbl">保護等級 EPL</div>
+          <div class="desc">適用 Zone 1</div>
+        </div>
+      </div>
+
+      <h3>銘牌資訊判讀練習</h3>
+      <div class="table-scroll">
+        <table>
+          <thead><tr><th>標示</th><th>能確定的資訊</th><th>不能確定的資訊</th></tr></thead>
+          <tbody>
+            <tr>
+              <td><code>Ex d</code></td>
+              <td>隔爆型；排除 Zone 0</td>
+              <td><strong>不知 Zone 1 或 Zone 2</strong>；不知氣體組別；不知溫度</td>
+            </tr>
+            <tr>
+              <td><code>Ex d IIC</code></td>
+              <td>隔爆型；適用氫／乙炔</td>
+              <td>仍不知 Zone；不知溫度限制</td>
+            </tr>
+            <tr>
+              <td><code>Ex d IIC T6 Gb</code></td>
+              <td><strong>完整</strong>：Zone 1；IIC；≤85 °C；隔爆型</td>
+              <td>—</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="callout danger">
+        <div class="callout-title">考試陷阱：只寫「Ex d」＝不完整</div>
+        <p>看到銘牌只寫 <code>Ex d</code> → 無法確定適用 Zone（Zone 1 還是 Zone 2 要看 EPL）。</p>
+        <p>完整標示必須包含四項：<strong>型式 ＋ 氣體組別 ＋ 溫度等級 ＋ EPL</strong>。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ⑥ 選用原則 -->
+  <section class="tab-page" id="t6">
+    <div class="panel">
+      <h2>八、選用三原則</h2>
+      <div class="grid-3">
+        <div class="card accent">
+          <div class="card-title">① Zone 匹配</div>
+          <p>設備 EPL 須能適用現場所屬 Zone。</p>
+          <p><small>例：Zone 1 至少要 <strong>Gb</strong>（Ga 亦可，Gc 不可）。</small></p>
+        </div>
+        <div class="card accent">
+          <div class="card-title">② 氣體組別匹配</div>
+          <p>設備氣體組別須 ≥ 現場可燃氣體危險等級。</p>
+          <p><small>例：IIA 環境可用 IIA／IIB／IIC 設備；IIC 環境只能用 IIC。</small></p>
+        </div>
+        <div class="card accent">
+          <div class="card-title">③ 溫度匹配</div>
+          <p>設備最高表面溫度須<strong>低於</strong>現場氣體／粉塵之引燃溫度（AIT）。</p>
+          <p><small>例：AIT 為 200 °C 之氣體，須選 T4 以上（≤135 °C）。</small></p>
+        </div>
+      </div>
+
+      <div class="callout warn">
+        <div class="callout-title">加上法規面的第四道關卡</div>
+        <p>技術上三項匹配之外，<strong>§177-2</strong> 另要求：公告後<strong>新安裝或換裝</strong>者必須是「合格品」——符合指定之國家／國際／團體標準，且符合<strong>職安法 §7</strong> 並張貼<strong>安全標示</strong>。</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ⑦ 考點 -->
+  <section class="tab-page" id="t7">
+    <div class="panel">
+      <h2>十、重點解析（六大考點）</h2>
+
+      <div class="callout danger">
+        <div class="callout-title">考點一：Zone 0 專用型式</div>
+        <p><strong>只有 ia（本質安全型 a）</strong>適用 Zone 0。理由：Zone 0 危險程度最高，要求設備在<strong>兩個故障</strong>情況下仍安全，只有 ia 達此要求。</p>
+      </div>
+
+      <div class="callout warn">
+        <div class="callout-title">考點二：n 型只用於 Zone 2</div>
+        <p>無火花型（n）不考慮保護故障，保護程度最低，<strong>只能用於危險程度最低的 Zone 2</strong>。</p>
+      </div>
+
+      <div class="callout">
+        <div class="callout-title">考點三：IIC 是最危險的氣體組</div>
+        <p>氫氣（H₂）與乙炔（C₂H₂）屬 IIC，引燃能量極低。IIC 設備可代替 IIB、IIA 使用（向上相容），反之不可。</p>
+      </div>
+
+      <div class="callout warn">
+        <div class="callout-title">考點四：溫度等級數字越大越嚴格</div>
+        <p>T6（≤85 °C）比 T1（≤450 °C）嚴格；選用時設備溫度等級對應之溫度須<strong>低於</strong>現場引燃溫度。</p>
+      </div>
+
+      <div class="callout">
+        <div class="callout-title">考點五：銘牌判讀四要素</div>
+        <p>完整防爆標示需含：<strong>型式（d/e/ia…）＋ 氣體組別（IIA/IIB/IIC）＋ 溫度等級（T1~T6）＋ EPL（Ga/Gb/Gc）</strong>。缺一即不完整。</p>
+      </div>
+
+      <div class="callout danger">
+        <div class="callout-title">考點六：設施規則三條的義務區分</div>
+        <ul>
+          <li><strong>§177-1</strong>：<u>爆燃性粉塵</u>場所 → 防爆性能構造（§177 Ⅰ三 管的是爆燃性粉塵<u>以外</u>之可燃性粉塵、蒸氣與可燃性氣體）</li>
+          <li><strong>§177-2</strong>：<u>新安裝或換裝</u>才要求「合格品」；合格品＝符合<u>職安法 §7</u> 且張貼安全標示</li>
+          <li><strong>§177-3</strong>：只針對<u>移動式／攜帶式</u>，頻率是<u>每次使用前</u>（非定期檢查）</li>
+          <li>陷阱：把防爆條號記成 <u>§277／§278</u>（那是第十一章<strong>防護具</strong>）</li>
+        </ul>
+      </div>
+
+      <h3>相關數字速記</h3>
+      <div class="grid-3">
+        <div class="card"><div class="card-title">30 %</div><p>蒸氣／氣體濃度達<strong>爆炸下限 30%</strong> 以上 → 立即使勞工退避、停用煙火、加強通風（§177 Ⅰ二）</p></div>
+        <div class="card"><div class="card-title">85 °C</div><p>T6 之最高表面溫度，溫度等級中最嚴格</p></div>
+        <div class="card"><div class="card-title">1,000 h／年</div><p>Zone 0 之判定門檻（連續存在，&gt;1,000 小時/年）</p></div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    法規來源：職業安全衛生設施規則（<strong>N0060009</strong>）·
+    <a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060009" target="_blank" rel="noopener">全國法規資料庫</a>　|
+    標準來源：CNS 3376 系列（等同 IEC 60079 系列）<br>
+    本頁為個人考試整理，僅供學習參考；實務適用請以主管機關最新公告條文為準。
+  </footer>
+
+</div>
+
+<script>
+(function () {
+  var buttons = document.querySelectorAll('.tab-button');
+  var pages = document.querySelectorAll('.tab-page');
+
+  function show(id) {
+    buttons.forEach(function (b) { b.classList.toggle('active', b.dataset.tab === id); });
+    pages.forEach(function (p) { p.classList.toggle('active', p.id === id); });
+    history.replaceState(null, '', '#' + id);
+  }
+
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () { show(b.dataset.tab); });
+  });
+
+  var hash = location.hash.replace('#', '');
+  if (hash && document.getElementById(hash)) { show(hash); }
+})();
+</script>
+</body>
+</html>
