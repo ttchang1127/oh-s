@@ -245,7 +245,22 @@
       "tags": ["勞資會議", "勞方代表", "選舉", "任期", "會議決議"]
     },
 
-    { "id": "N0060027", "title": "職業安全衛生管理辦法", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-01", "status": "queued" },
+    {
+      "id": "N0060027",
+      "title": "職業安全衛生管理辦法",
+      "category": "安全衛生管理與工程",
+      "batch": 4,
+      "batchTitle": "管理、教育與風險評估",
+      "order": "04-01",
+      "status": "ready",
+      "questionCount": 197,
+      "uniqueAnswerCount": 54,
+      "sourceBoxCount": 197,
+      "lastAmended": "115-06-29",
+      "url": "number-fill.html?law=N0060027",
+      "description": "安全衛生組織、人員配置、委員會、管理系統與自動檢查週期、檢點、紀錄及報告門檻。",
+      "tags": ["安全衛生管理", "人員配置", "安全衛生委員會", "自動檢查", "檢點"]
+    },
     { "id": "N0060010", "title": "職業安全衛生教育訓練規則", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-02", "status": "queued" },
     { "id": "N0060033", "title": "勞工作業環境監測實施辦法", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-03", "status": "queued" },
     { "id": "N0060071", "title": "製程安全評估定期實施辦法", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-04", "status": "queued" },
