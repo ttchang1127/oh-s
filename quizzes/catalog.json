@@ -196,7 +196,22 @@
       "description": "勞動檢查方針、檢查結果通知與公告、勞工申訴、危險工作場所及罰則門檻。",
       "tags": ["勞動檢查法", "檢查方針", "申訴", "危險工作場所", "罰則"]
     },
-    { "id": "N0070004", "title": "勞動檢查法施行細則", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-03", "status": "queued" },
+    {
+      "id": "N0070004",
+      "title": "勞動檢查法施行細則",
+      "category": "核心法規與勞動制度",
+      "batch": 3,
+      "batchTitle": "檢查、職災與勞資制度",
+      "order": "03-03",
+      "status": "ready",
+      "questionCount": 14,
+      "uniqueAnswerCount": 13,
+      "sourceBoxCount": 14,
+      "lastAmended": "112-12-07",
+      "url": "number-fill.html?law=N0070004",
+      "description": "檢查年報、檢視與複製、檢查證、異議、危險性工作場所容量及重大職災門檻。",
+      "tags": ["勞動檢查法施行細則", "勞動檢查年報", "異議", "危險性工作場所", "重大職業災害"]
+    },
     { "id": "N0070016", "title": "勞動檢查法第二十八條所定勞工有立即發生危險之虞認定標準", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-04", "status": "queued" },
     { "id": "N0020008", "title": "勞資會議實施辦法", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-05", "status": "queued" },
 
