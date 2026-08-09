@@ -890,7 +890,19 @@
       "batch": 10,
       "batchTitle": "壓力設備與高壓氣體",
       "order": "10-01",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 83,
+      "uniqueAnswerCount": 55,
+      "sourceBoxCount": 83,
+      "lastAmended": "103-07-01",
+      "url": "number-fill.html?law=N0060011",
+      "description": "鍋爐與壓力容器的操作、管理、自動檢查及安全裝置門檻。",
+      "tags": [
+        "鍋爐",
+        "壓力容器",
+        "操作管理",
+        "安全裝置"
+      ]
     },
     {
       "id": "N0060055",
@@ -899,7 +911,19 @@
       "batch": 10,
       "batchTitle": "壓力設備與高壓氣體",
       "order": "10-02",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 148,
+      "uniqueAnswerCount": 102,
+      "sourceBoxCount": 148,
+      "lastAmended": "103-06-27",
+      "url": "number-fill.html?law=N0060055",
+      "description": "壓力容器的材料、構造、厚度、強度與試驗檢查門檻。",
+      "tags": [
+        "壓力容器",
+        "構造標準",
+        "材料",
+        "耐壓試驗"
+      ]
     },
     {
       "id": "N0060030",
@@ -908,7 +932,20 @@
       "batch": 10,
       "batchTitle": "壓力設備與高壓氣體",
       "order": "10-03",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 221,
+      "uniqueAnswerCount": 115,
+      "sourceBoxCount": 221,
+      "lastAmended": "111-09-14",
+      "url": "number-fill.html?law=N0060030",
+      "description": "高壓氣體製造、儲存、消費、運輸、容器與安全管理門檻。",
+      "tags": [
+        "高壓氣體",
+        "製造",
+        "儲存",
+        "運輸",
+        "容器"
+      ]
     },
     {
       "id": "N0070018",

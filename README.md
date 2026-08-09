@@ -76,3 +76,6 @@
 | [機械設備器具安全標準](quizzes/number-fill.html?law=N0060034) | 172 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [起重升降機具安全規則](quizzes/number-fill.html?law=N0060013) | 76 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [吊籠安全檢查構造標準](quizzes/number-fill.html?law=N0070023) | 25 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [鍋爐及壓力容器安全規則](quizzes/number-fill.html?law=N0060011) | 83 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [壓力容器安全檢查構造標準](quizzes/number-fill.html?law=N0060055) | 148 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [高壓氣體勞工安全規則](quizzes/number-fill.html?law=N0060030) | 221 | 逐題練習、模擬考、錯題重做、A4列印 |
