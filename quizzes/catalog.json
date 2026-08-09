@@ -66,7 +66,22 @@
       "description": "搬運、壓延、敲擊、鍛造、熔液與纜索作業的重量門檻，以及每小時最低休息時間。",
       "tags": ["重體力勞動", "重量門檻", "搬運", "休息時間"]
     },
-    { "id": "N0060012", "title": "精密作業勞工視機能保護設施標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-05", "status": "queued" },
+    {
+      "id": "N0060012",
+      "title": "精密作業勞工視機能保護設施標準",
+      "category": "母性與健康保護",
+      "batch": 1,
+      "batchTitle": "母性與健康保護",
+      "order": "01-05",
+      "status": "ready",
+      "questionCount": 11,
+      "uniqueAnswerCount": 11,
+      "sourceBoxCount": 11,
+      "lastAmended": "103-06-30",
+      "url": "number-fill.html?law=N0060012",
+      "description": "精密作業的凝視與線徑門檻、局部照明、照度比、遮光角度、休息時間及明視距離。",
+      "tags": ["精密作業", "視機能", "照明", "遮光角度", "休息時間"]
+    },
 
     { "id": "N0060001", "title": "職業安全衛生法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-01", "status": "queued" },
     { "id": "N0060002", "title": "職業安全衛生法施行細則", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-02", "status": "queued" },
