@@ -27,6 +27,7 @@
 | [114 年職安法修法重點](topics/osha-act-2025-amendment.html) | 職業安全衛生法 114 年 12 月 19 日修正 |
 | [壓力容器四方比較](topics/pressure-vessel-comparison.html) | 壓力設備與高壓氣體相關法規 |
 | [危害性化學品四層分類](topics/chemical-management-layers.html) | 職業安全衛生法 §10、§13、§14及施行細則 |
+| [承攬管理](topics/contractor-management.html) | 職業安全衛生法 §25～§28、施行細則 §36～§38及管理辦法 §84 |
 
 ## 互動填空
 
