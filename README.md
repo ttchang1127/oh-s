@@ -64,3 +64,15 @@
 | [勞工作業場所容許暴露標準](quizzes/number-fill.html?law=N0060004) | 10 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [有機溶劑中毒預防規則](quizzes/number-fill.html?law=N0060017) | 37 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [粉塵危害預防標準](quizzes/number-fill.html?law=N0060021) | 11 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [危害性化學品標示及通識規則](quizzes/number-fill.html?law=N0060054) | 61 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [危害性化學品評估及分級管理辦法](quizzes/number-fill.html?law=N0060070) | 17 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [優先管理化學品之指定及運作管理辦法](quizzes/number-fill.html?law=N0060064) | 41 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [管制性化學品之指定及運作許可管理辦法](quizzes/number-fill.html?law=N0060068) | 15 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [新化學物質登記管理辦法](quizzes/number-fill.html?law=N0060069) | 44 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [特定化學物質危害預防標準](quizzes/number-fill.html?law=N0060015) | 55 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [鉛中毒預防規則](quizzes/number-fill.html?law=N0060018) | 19 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [四烷基鉛中毒預防規則](quizzes/number-fill.html?law=N0060019) | 10 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [危險性機械及設備安全檢查規則](quizzes/number-fill.html?law=N0060039) | 264 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [機械設備器具安全標準](quizzes/number-fill.html?law=N0060034) | 172 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [起重升降機具安全規則](quizzes/number-fill.html?law=N0060013) | 76 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [吊籠安全檢查構造標準](quizzes/number-fill.html?law=N0070023) | 25 | 逐題練習、模擬考、錯題重做、A4列印 |

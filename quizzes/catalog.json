@@ -804,7 +804,20 @@
       "batch": 9,
       "batchTitle": "起重機械與安全標準",
       "order": "09-01",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 264,
+      "uniqueAnswerCount": 68,
+      "sourceBoxCount": 264,
+      "lastAmended": "114-12-23",
+      "url": "number-fill.html?law=N0060039",
+      "description": "危險性機械設備的製造、熔接、構造、竣工、定期與變更檢查門檻。",
+      "tags": [
+        "安全檢查",
+        "起重機",
+        "鍋爐",
+        "壓力容器",
+        "高壓氣體設備"
+      ]
     },
     {
       "id": "N0060034",
@@ -813,7 +826,20 @@
       "batch": 9,
       "batchTitle": "起重機械與安全標準",
       "order": "09-02",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 172,
+      "uniqueAnswerCount": 138,
+      "sourceBoxCount": 172,
+      "lastAmended": "111-05-11",
+      "url": "number-fill.html?law=N0060034",
+      "description": "衝剪、木材加工、堆高機、研磨機、防爆電氣與其他機械的構造安全門檻。",
+      "tags": [
+        "機械安全",
+        "衝剪機械",
+        "堆高機",
+        "研磨機",
+        "防爆電氣"
+      ]
     },
     {
       "id": "N0060013",
@@ -822,7 +848,19 @@
       "batch": 9,
       "batchTitle": "起重機械與安全標準",
       "order": "09-03",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 76,
+      "uniqueAnswerCount": 47,
+      "sourceBoxCount": 76,
+      "lastAmended": "109-08-20",
+      "url": "number-fill.html?law=N0060013",
+      "description": "固定式與移動式起重機、人字臂起重桿、吊掛、升降機與吊籠作業門檻。",
+      "tags": [
+        "起重機",
+        "吊掛",
+        "升降機",
+        "吊籠"
+      ]
     },
     {
       "id": "N0070023",
@@ -831,7 +869,19 @@
       "batch": 9,
       "batchTitle": "起重機械與安全標準",
       "order": "09-04",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 25,
+      "uniqueAnswerCount": 24,
+      "sourceBoxCount": 25,
+      "lastAmended": "108-11-11",
+      "url": "number-fill.html?law=N0070023",
+      "description": "吊籠的結構、鋼索、制動、安全裝置與試驗檢查門檻。",
+      "tags": [
+        "吊籠",
+        "構造",
+        "鋼索",
+        "安全檢查"
+      ]
     },
     {
       "id": "N0060011",
