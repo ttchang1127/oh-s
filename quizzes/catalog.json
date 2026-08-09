@@ -147,7 +147,22 @@
       "description": "定期契約、競業禁止、工時與特休、職災補償、工作規則及勞動檢查的細則門檻。",
       "tags": ["勞動基準法施行細則", "競業禁止", "特別休假", "職災補償", "工作規則"]
     },
-    { "id": "N0050031", "title": "勞工職業災害保險及保護法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-05", "status": "queued" },
+    {
+      "id": "N0050031",
+      "title": "勞工職業災害保險及保護法",
+      "category": "核心法規與勞動制度",
+      "batch": 2,
+      "batchTitle": "核心母法與施行細則",
+      "order": "02-05",
+      "status": "ready",
+      "questionCount": 133,
+      "uniqueAnswerCount": 45,
+      "sourceBoxCount": 133,
+      "lastAmended": "110-04-30",
+      "url": "number-fill.html?law=N0050031",
+      "description": "投保、保費、滯納、傷病與失能給付、遺屬給付、復健、保護與罰則的數字門檻。",
+      "tags": ["職業災害保險", "保險費", "傷病給付", "失能年金", "遺屬給付", "罰則"]
+    },
 
     { "id": "N0050039", "title": "勞工職業災害保險及保護法施行細則", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-01", "status": "queued" },
     { "id": "N0070001", "title": "勞動檢查法", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-02", "status": "queued" },
