@@ -34,7 +34,22 @@
       "description": "未滿十八歲、妊娠中及分娩後女性勞工的禁止工作門檻，包含附表濃度、振動、負重與尚未生效的粉塵規定。",
       "tags": ["未滿十八歲", "妊娠", "分娩後", "濃度", "重物處理", "尚未生效"]
     },
-    { "id": "N0060022", "title": "勞工健康保護規則", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-03", "status": "queued" },
+    {
+      "id": "N0060022",
+      "title": "勞工健康保護規則",
+      "category": "母性與健康保護",
+      "batch": 1,
+      "batchTitle": "母性與健康保護",
+      "order": "01-03",
+      "status": "ready",
+      "questionCount": 158,
+      "uniqueAnswerCount": 87,
+      "sourceBoxCount": 158,
+      "lastAmended": "115-06-26",
+      "url": "number-fill.html?law=N0060022",
+      "description": "醫護人力配置、臨場頻率、健康服務訓練、一般與特殊健檢、紀錄保存、健康管理分級及 116～117 年新制。",
+      "tags": ["醫護配置", "臨場頻率", "健檢", "健康管理", "新制", "附表"]
+    },
     { "id": "N0060016", "title": "重體力勞動作業勞工保護措施標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-04", "status": "queued" },
     { "id": "N0060012", "title": "精密作業勞工視機能保護設施標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-05", "status": "queued" },
 

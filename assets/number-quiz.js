@@ -32,6 +32,29 @@
     return (tokens || []).some(function (token) { return n.indexOf(normalize(token)) !== -1; });
   }
 
+  function chineseNumberToArabic(value) {
+    var digits = { "零": 0, "〇": 0, "一": 1, "二": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9 };
+    var units = { "十": 10, "百": 100, "千": 1000, "萬": 10000 };
+    function parse(token) {
+      var result = 0;
+      var current = 0;
+      var seenUnit = false;
+      for (var i = 0; i < token.length; i += 1) {
+        var character = token.charAt(i);
+        if (Object.prototype.hasOwnProperty.call(digits, character)) {
+          current = digits[character];
+        } else if (Object.prototype.hasOwnProperty.call(units, character)) {
+          seenUnit = true;
+          result += (current || 1) * units[character];
+          current = 0;
+        }
+      }
+      if (seenUnit) { return String(result + current); }
+      return token.split("").map(function (character) { return String(digits[character]); }).join("");
+    }
+    return String(value || "").replace(/[零〇一二三四五六七八九十百千萬]+/g, parse);
+  }
+
   function prepareQuestion(question) {
     var boundaryConflicts = {
       "未滿": ["以上", "大於", "超過"],
@@ -46,7 +69,7 @@
     var requirements = [];
     var core = String(question.answer || "");
 
-    question.accept = Array.from(new Set([question.answer].concat(question.accept || [])));
+    question.accept = Array.from(new Set([question.answer, chineseNumberToArabic(question.answer)].concat(question.accept || [])));
     if (!Object.prototype.hasOwnProperty.call(question, "requirements")) {
       Object.keys(boundaryConflicts).forEach(function (token) {
         if (core.indexOf(token) !== -1) {
@@ -436,6 +459,6 @@
       .catch(fail);
   }
 
-  window.OHSNumberQuiz = Object.freeze({ normalize: normalize, prepareQuestion: prepareQuestion, evaluate: evaluate });
+  window.OHSNumberQuiz = Object.freeze({ normalize: normalize, chineseNumberToArabic: chineseNumberToArabic, prepareQuestion: prepareQuestion, evaluate: evaluate });
   document.addEventListener("DOMContentLoaded", init);
 })();
