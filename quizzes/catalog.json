@@ -1,0 +1,18 @@
+{
+  "updated": "2026-08-09",
+  "quizzes": [
+    {
+      "id": "N0060065",
+      "title": "女性勞工母性健康保護實施辦法",
+      "category": "健康保護",
+      "status": "ready",
+      "questionCount": 14,
+      "uniqueAnswerCount": 13,
+      "sourceBoxCount": 18,
+      "lastAmended": "113-05-31",
+      "url": "number-fill.html?law=N0060065",
+      "description": "母性保護期間、化學品暴露與血中鉛濃度分級、文件保存，以及附表二懷孕與母性風險因子。",
+      "tags": ["母性保護", "風險分級", "附表", "濃度", "保存年限"]
+    }
+  ]
+}

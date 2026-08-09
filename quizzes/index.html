@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>數字填空訓練｜職安主題整理</title>
+<meta name="description" content="職業安全衛生法規數字填空訓練專區：依數字框選列印版建立題庫，支援搜尋、逐題練習、模擬考、錯題重做與A4列印。">
+<link rel="stylesheet" href="../assets/site.css">
+<link rel="stylesheet" href="../assets/number-quiz.css">
+<script src="../assets/quiz-catalog.js" defer></script>
+</head>
+<body>
+<div class="wrap quiz-catalog-shell">
+  <a class="backlink" href="../index.html">← 回職安主題總覽</a>
+
+  <p class="eyebrow">Occupational Safety · Number Fill Training</p>
+  <h1>數字填空訓練</h1>
+  <p class="lede">所有法規測驗集中在這個專區。題庫只能取自已驗證的數字框選列印版，依序提供逐題練習、模擬考試、錯題重做及 A4 列印。</p>
+
+  <div class="meta-grid">
+    <div class="meta-card"><span class="k">已上線法規</span><div class="v"><span id="catalog-laws">—</span> <small>部</small></div></div>
+    <div class="meta-card"><span class="k">填空題數</span><div class="v"><span id="catalog-questions">—</span> <small>題</small></div></div>
+    <div class="meta-card"><span class="k">來源框</span><div class="v"><span id="catalog-boxes">—</span> <small>個</small></div></div>
+    <div class="meta-card"><span class="k">題庫更新</span><div class="v"><span id="catalog-updated">—</span></div></div>
+  </div>
+
+  <div class="callout danger">
+    <div class="callout-title">題庫原則</div>
+    <p>答案必須能回溯第一部分既有框；數字、單位及「以上／未滿／大於」等邊界詞都納入判分。每部題庫均沿用同一套測驗引擎。</p>
+  </div>
+
+  <section class="panel catalog-controls" aria-label="搜尋與排序">
+    <div class="catalog-control-grid">
+      <label>
+        <span>搜尋法規或考點</span>
+        <input id="catalog-search" class="quiz-input" type="search" placeholder="例如：母性、濃度、保存年限">
+      </label>
+      <label>
+        <span>法規分類</span>
+        <select id="catalog-category" class="quiz-input"><option value="">全部分類</option></select>
+      </label>
+      <label>
+        <span>排列方式</span>
+        <select id="catalog-sort" class="quiz-input">
+          <option value="title">法規名稱</option>
+          <option value="questions">題數多到少</option>
+          <option value="updated">修正日期新到舊</option>
+        </select>
+      </label>
+    </div>
+  </section>
+
+  <div class="catalog-result-meta"><strong id="catalog-result-count">0 部法規</strong><span>點選法規即可開始練習</span></div>
+  <div id="catalog-loading" class="panel quiz-loading">正在載入題庫目錄……</div>
+  <div id="catalog-error" class="panel quiz-error" hidden></div>
+  <main id="catalog-grid" class="catalog-grid" aria-live="polite"></main>
+  <div id="catalog-empty" class="panel catalog-empty" hidden>找不到符合條件的法規，請調整搜尋文字或分類。</div>
+
+  <footer>
+    題庫來源：Obsidian「98_乙級職安管理員考題分析／數字填空訓練」。<br>
+    本專區只呈現已完成來源核對的題庫；後續新增法規會自動加入此目錄。
+  </footer>
+</div>
+</body>
+</html>
