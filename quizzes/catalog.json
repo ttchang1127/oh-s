@@ -18,7 +18,22 @@
       "description": "母性保護期間、化學品暴露與血中鉛濃度分級、文件保存，以及附表二懷孕與母性風險因子。",
       "tags": ["母性保護", "風險分級", "附表", "濃度", "保存年限"]
     },
-    { "id": "N0060032", "title": "妊娠與分娩後女性及未滿十八歲勞工禁止從事危險性或有害性工作認定標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-02", "status": "queued" },
+    {
+      "id": "N0060032",
+      "title": "妊娠與分娩後女性及未滿十八歲勞工禁止從事危險性或有害性工作認定標準",
+      "category": "母性與健康保護",
+      "batch": 1,
+      "batchTitle": "母性與健康保護",
+      "order": "01-02",
+      "status": "ready",
+      "questionCount": 60,
+      "uniqueAnswerCount": 42,
+      "sourceBoxCount": 60,
+      "lastAmended": "114-11-20",
+      "url": "number-fill.html?law=N0060032",
+      "description": "未滿十八歲、妊娠中及分娩後女性勞工的禁止工作門檻，包含附表濃度、振動、負重與尚未生效的粉塵規定。",
+      "tags": ["未滿十八歲", "妊娠", "分娩後", "濃度", "重物處理", "尚未生效"]
+    },
     { "id": "N0060022", "title": "勞工健康保護規則", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-03", "status": "queued" },
     { "id": "N0060016", "title": "重體力勞動作業勞工保護措施標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-04", "status": "queued" },
     { "id": "N0060012", "title": "精密作業勞工視機能保護設施標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-05", "status": "queued" },

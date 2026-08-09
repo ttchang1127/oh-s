@@ -32,6 +32,68 @@
     return (tokens || []).some(function (token) { return n.indexOf(normalize(token)) !== -1; });
   }
 
+  function prepareQuestion(question) {
+    var boundaryConflicts = {
+      "未滿": ["以上", "大於", "超過"],
+      "小於": ["以上", "大於", "超過"],
+      "低於": ["以上", "大於", "超過"],
+      "以上": ["未滿", "以下", "小於", "低於"],
+      "以下": ["以上", "大於", "超過"],
+      "超過": ["未滿", "以下", "小於", "低於"],
+      "大於": ["未滿", "以下", "小於", "低於"]
+    };
+    var units = ["mg/m³", "f/cc", "ppm", "微米", "伏特", "公厘", "公斤", "公分", "公尺", "歲", "年"];
+    var requirements = [];
+    var core = String(question.answer || "");
+
+    question.accept = Array.from(new Set([question.answer].concat(question.accept || [])));
+    if (!Object.prototype.hasOwnProperty.call(question, "requirements")) {
+      Object.keys(boundaryConflicts).forEach(function (token) {
+        if (core.indexOf(token) !== -1) {
+          requirements.push({ label: "邊界詞「" + token + "」", tokens: [token] });
+          core = core.replace(token, "");
+          if (!question.conflicts) { question.conflicts = boundaryConflicts[token]; }
+        }
+      });
+      if (core.indexOf("百分之") !== -1) {
+        requirements.push({ label: "百分比", tokens: ["百分之", "%"] });
+        core = core.replace("百分之", "");
+      }
+      units.forEach(function (unit) {
+        if (core.indexOf(unit) !== -1) {
+          var tokens = [unit];
+          if (unit === "公斤") { tokens.push("kg"); }
+          if (unit === "公分") { tokens.push("cm"); }
+          if (unit === "公尺") { tokens.push("m"); }
+          if (unit === "微米") { tokens.push("μm", "um"); }
+          if (unit === "伏特") { tokens.push("v"); }
+          if (unit === "公厘") { tokens.push("mm"); }
+          if (unit === "mg/m³") { tokens.push("mg/m3"); }
+          requirements.push({ label: "單位「" + unit + "」", tokens: tokens });
+          core = core.replace(unit, "");
+        }
+      });
+      question.requirements = requirements;
+    }
+    if (!question.core) {
+      var removable = [];
+      question.requirements.forEach(function (requirement) {
+        removable = removable.concat(requirement.tokens || []);
+      });
+      removable = removable.concat(question.conflicts || []);
+      removable.sort(function (a, b) { return b.length - a.length; });
+      question.core = question.accept.map(function (answer) {
+        var value = answer;
+        removable.forEach(function (token) { value = value.split(token).join(""); });
+        return value;
+      });
+      question.core.push(core);
+      question.core = Array.from(new Set(question.core));
+    }
+    if (!question.conflicts) { question.conflicts = []; }
+    return question;
+  }
+
   function matchesCore(question, value) {
     var residue = normalize(value);
     var removable = [];
@@ -302,6 +364,7 @@
   }
 
   function hydrate(data) {
+    data.questions = data.questions.map(prepareQuestion);
     state.data = data;
     state.storageKey = "ohs-number-quiz-wrong-" + data.pcode;
     document.title = data.title + "｜職安主題整理";
@@ -373,6 +436,6 @@
       .catch(fail);
   }
 
-  window.OHSNumberQuiz = Object.freeze({ normalize: normalize, evaluate: evaluate });
+  window.OHSNumberQuiz = Object.freeze({ normalize: normalize, prepareQuestion: prepareQuestion, evaluate: evaluate });
   document.addEventListener("DOMContentLoaded", init);
 })();
