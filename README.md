@@ -54,3 +54,8 @@
 | [勞工作業環境監測實施辦法](quizzes/number-fill.html?law=N0060033) | 68 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [製程安全評估定期實施辦法](quizzes/number-fill.html?law=N0060071) | 9 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [危險性工作場所審查及檢查辦法](quizzes/number-fill.html?law=N0070019) | 31 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [職業安全衛生設施規則](quizzes/number-fill.html?law=N0060009) | 294 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [營造安全衛生設施標準](quizzes/number-fill.html?law=N0060014) | 231 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [高架作業勞工保護措施標準](quizzes/number-fill.html?law=N0060029) | 10 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [高溫作業勞工作息時間標準](quizzes/number-fill.html?law=N0060007) | 21 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [營建工程空氣污染防制設施管理辦法](quizzes/number-fill.html?law=O0020058) | 57 | 逐題練習、模擬考、錯題重做、A4列印 |
