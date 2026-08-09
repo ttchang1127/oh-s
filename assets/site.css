@@ -440,7 +440,10 @@ footer a { color: var(--teal); }
 }
 
 @media print {
-  .tab-strip { display: none; }
-  .tab-page { display: block !important; }
+  .tab-strip, .backlink { display: none; }
+  .tab-page { display: block !important; animation: none !important; }
+  .panel { box-shadow: none; }
+  .table-scroll { overflow: visible; background: none; }
+  table { min-width: 0; font-size: 0.78rem; }
   body { background: #fff; }
 }
