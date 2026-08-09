@@ -79,3 +79,7 @@
 | [鍋爐及壓力容器安全規則](quizzes/number-fill.html?law=N0060011) | 83 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [壓力容器安全檢查構造標準](quizzes/number-fill.html?law=N0060055) | 148 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [高壓氣體勞工安全規則](quizzes/number-fill.html?law=N0060030) | 221 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [危險性機械或設備代行檢查機構管理規則](quizzes/number-fill.html?law=N0070018) | 6 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [機械設備器具安全資訊申報登錄辦法](quizzes/number-fill.html?law=N0060056) | 15 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [機械設備器具監督管理辦法](quizzes/number-fill.html?law=N0060063) | 6 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [機械類產品型式驗證實施及監督管理辦法](quizzes/number-fill.html?law=N0060062) | 18 | 逐題練習、模擬考、錯題重做、A4列印 |

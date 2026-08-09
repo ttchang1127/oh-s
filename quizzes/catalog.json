@@ -954,7 +954,18 @@
       "batch": 11,
       "batchTitle": "機械驗證與監督",
       "order": "11-01",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 6,
+      "uniqueAnswerCount": 6,
+      "sourceBoxCount": 6,
+      "lastAmended": "106-10-02",
+      "url": "number-fill.html?law=N0070018",
+      "description": "代行檢查機構的資格、人員、設備與管理期限。",
+      "tags": [
+        "代行檢查機構",
+        "資格",
+        "檢查員"
+      ]
     },
     {
       "id": "N0060056",
@@ -963,7 +974,18 @@
       "batch": 11,
       "batchTitle": "機械驗證與監督",
       "order": "11-02",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 15,
+      "uniqueAnswerCount": 13,
+      "sourceBoxCount": 15,
+      "lastAmended": "109-10-16",
+      "url": "number-fill.html?law=N0060056",
+      "description": "機械設備器具安全資訊申報、登錄、變更與保存期限。",
+      "tags": [
+        "安全資訊",
+        "申報登錄",
+        "機械設備"
+      ]
     },
     {
       "id": "N0060063",
@@ -972,7 +994,18 @@
       "batch": 11,
       "batchTitle": "機械驗證與監督",
       "order": "11-03",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 6,
+      "uniqueAnswerCount": 4,
+      "sourceBoxCount": 6,
+      "lastAmended": "115-06-25",
+      "url": "number-fill.html?law=N0060063",
+      "description": "機械設備器具的監督、抽驗、回收與改善期限。",
+      "tags": [
+        "監督管理",
+        "抽驗",
+        "回收"
+      ]
     },
     {
       "id": "N0060062",
@@ -981,7 +1014,18 @@
       "batch": 11,
       "batchTitle": "機械驗證與監督",
       "order": "11-04",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 18,
+      "uniqueAnswerCount": 14,
+      "sourceBoxCount": 18,
+      "lastAmended": "103-11-28",
+      "url": "number-fill.html?law=N0060062",
+      "description": "機械類產品型式驗證、證書、監督與資料保存期限。",
+      "tags": [
+        "型式驗證",
+        "證書",
+        "監督管理"
+      ]
     }
   ]
 }
