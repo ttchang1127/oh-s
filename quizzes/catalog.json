@@ -212,7 +212,22 @@
       "description": "檢查年報、檢視與複製、檢查證、異議、危險性工作場所容量及重大職災門檻。",
       "tags": ["勞動檢查法施行細則", "勞動檢查年報", "異議", "危險性工作場所", "重大職業災害"]
     },
-    { "id": "N0070016", "title": "勞動檢查法第二十八條所定勞工有立即發生危險之虞認定標準", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-04", "status": "queued" },
+    {
+      "id": "N0070016",
+      "title": "勞動檢查法第二十八條所定勞工有立即發生危險之虞認定標準",
+      "category": "核心法規與勞動制度",
+      "batch": 3,
+      "batchTitle": "檢查、職災與勞資制度",
+      "order": "03-04",
+      "status": "ready",
+      "questionCount": 14,
+      "uniqueAnswerCount": 10,
+      "sourceBoxCount": 14,
+      "lastAmended": "094-06-10",
+      "url": "number-fill.html?law=N0070016",
+      "description": "墜落、感電、倒塌崩塌、火災爆炸及中毒缺氧的立即危險認定數值門檻。",
+      "tags": ["立即發生危險", "墜落", "感電", "倒塌崩塌", "缺氧"]
+    },
     { "id": "N0020008", "title": "勞資會議實施辦法", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-05", "status": "queued" },
 
     { "id": "N0060027", "title": "職業安全衛生管理辦法", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-01", "status": "queued" },

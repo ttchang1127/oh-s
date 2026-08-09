@@ -47,3 +47,4 @@
 | [勞工職業災害保險及保護法施行細則](quizzes/number-fill.html?law=N0050039) | 76 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [勞動檢查法](quizzes/number-fill.html?law=N0070001) | 11 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [勞動檢查法施行細則](quizzes/number-fill.html?law=N0070004) | 14 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [勞動檢查法第二十八條所定勞工有立即發生危險之虞認定標準](quizzes/number-fill.html?law=N0070016) | 14 | 逐題練習、模擬考、錯題重做、A4列印 |
