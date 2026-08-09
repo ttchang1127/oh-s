@@ -750,7 +750,16 @@
       "batch": 8,
       "batchTitle": "特定化學危害預防",
       "order": "08-01",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 55,
+      "uniqueAnswerCount": 33,
+      "sourceBoxCount": 55,
+      "lastAmended": "110-09-16",
+      "url": "number-fill.html?law=N0060015",
+      "description": "特定化學物質的設備、濃度、作業管理與健康保護門檻。",
+      "tags": [
+        "特定化學危害預防"
+      ]
     },
     {
       "id": "N0060018",
@@ -759,7 +768,16 @@
       "batch": 8,
       "batchTitle": "特定化學危害預防",
       "order": "08-02",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 19,
+      "uniqueAnswerCount": 16,
+      "sourceBoxCount": 19,
+      "lastAmended": "113-06-13",
+      "url": "number-fill.html?law=N0060018",
+      "description": "鉛作業的設備、濃度、健康保護與管理門檻。",
+      "tags": [
+        "特定化學危害預防"
+      ]
     },
     {
       "id": "N0060019",
@@ -768,7 +786,16 @@
       "batch": 8,
       "batchTitle": "特定化學危害預防",
       "order": "08-03",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 10,
+      "uniqueAnswerCount": 7,
+      "sourceBoxCount": 10,
+      "lastAmended": "111-06-29",
+      "url": "number-fill.html?law=N0060019",
+      "description": "四烷基鉛作業的設備、保護與管理門檻。",
+      "tags": [
+        "特定化學危害預防"
+      ]
     },
     {
       "id": "N0060039",
