@@ -50,3 +50,7 @@
 | [勞動檢查法第二十八條所定勞工有立即發生危險之虞認定標準](quizzes/number-fill.html?law=N0070016) | 14 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [勞資會議實施辦法](quizzes/number-fill.html?law=N0020008) | 22 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [職業安全衛生管理辦法](quizzes/number-fill.html?law=N0060027) | 197 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [職業安全衛生教育訓練規則](quizzes/number-fill.html?law=N0060010) | 108 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [勞工作業環境監測實施辦法](quizzes/number-fill.html?law=N0060033) | 68 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [製程安全評估定期實施辦法](quizzes/number-fill.html?law=N0060071) | 9 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [危險性工作場所審查及檢查辦法](quizzes/number-fill.html?law=N0070019) | 31 | 逐題練習、模擬考、錯題重做、A4列印 |
