@@ -228,7 +228,22 @@
       "description": "墜落、感電、倒塌崩塌、火災爆炸及中毒缺氧的立即危險認定數值門檻。",
       "tags": ["立即發生危險", "墜落", "感電", "倒塌崩塌", "缺氧"]
     },
-    { "id": "N0020008", "title": "勞資會議實施辦法", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-05", "status": "queued" },
+    {
+      "id": "N0020008",
+      "title": "勞資會議實施辦法",
+      "category": "核心法規與勞動制度",
+      "batch": 3,
+      "batchTitle": "檢查、職災與勞資制度",
+      "order": "03-05",
+      "status": "ready",
+      "questionCount": 22,
+      "uniqueAnswerCount": 21,
+      "sourceBoxCount": 22,
+      "lastAmended": "103-04-14",
+      "url": "number-fill.html?law=N0020008",
+      "description": "勞資會議的設置、代表人數、選派選舉、性別代表、任期、決議與開會期限。",
+      "tags": ["勞資會議", "勞方代表", "選舉", "任期", "會議決議"]
+    },
 
     { "id": "N0060027", "title": "職業安全衛生管理辦法", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-01", "status": "queued" },
     { "id": "N0060010", "title": "職業安全衛生教育訓練規則", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-02", "status": "queued" },
