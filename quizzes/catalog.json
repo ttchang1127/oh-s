@@ -16,7 +16,13 @@
       "lastAmended": "113-05-31",
       "url": "number-fill.html?law=N0060065",
       "description": "母性保護期間、化學品暴露與血中鉛濃度分級、文件保存，以及附表二懷孕與母性風險因子。",
-      "tags": ["母性保護", "風險分級", "附表", "濃度", "保存年限"]
+      "tags": [
+        "母性保護",
+        "風險分級",
+        "附表",
+        "濃度",
+        "保存年限"
+      ]
     },
     {
       "id": "N0060032",
@@ -32,7 +38,14 @@
       "lastAmended": "114-11-20",
       "url": "number-fill.html?law=N0060032",
       "description": "未滿十八歲、妊娠中及分娩後女性勞工的禁止工作門檻，包含附表濃度、振動、負重與尚未生效的粉塵規定。",
-      "tags": ["未滿十八歲", "妊娠", "分娩後", "濃度", "重物處理", "尚未生效"]
+      "tags": [
+        "未滿十八歲",
+        "妊娠",
+        "分娩後",
+        "濃度",
+        "重物處理",
+        "尚未生效"
+      ]
     },
     {
       "id": "N0060022",
@@ -48,7 +61,14 @@
       "lastAmended": "115-06-26",
       "url": "number-fill.html?law=N0060022",
       "description": "醫護人力配置、臨場頻率、健康服務訓練、一般與特殊健檢、紀錄保存、健康管理分級及 116～117 年新制。",
-      "tags": ["醫護配置", "臨場頻率", "健檢", "健康管理", "新制", "附表"]
+      "tags": [
+        "醫護配置",
+        "臨場頻率",
+        "健檢",
+        "健康管理",
+        "新制",
+        "附表"
+      ]
     },
     {
       "id": "N0060016",
@@ -64,7 +84,12 @@
       "lastAmended": "103-06-30",
       "url": "number-fill.html?law=N0060016",
       "description": "搬運、壓延、敲擊、鍛造、熔液與纜索作業的重量門檻，以及每小時最低休息時間。",
-      "tags": ["重體力勞動", "重量門檻", "搬運", "休息時間"]
+      "tags": [
+        "重體力勞動",
+        "重量門檻",
+        "搬運",
+        "休息時間"
+      ]
     },
     {
       "id": "N0060012",
@@ -80,9 +105,14 @@
       "lastAmended": "103-06-30",
       "url": "number-fill.html?law=N0060012",
       "description": "精密作業的凝視與線徑門檻、局部照明、照度比、遮光角度、休息時間及明視距離。",
-      "tags": ["精密作業", "視機能", "照明", "遮光角度", "休息時間"]
+      "tags": [
+        "精密作業",
+        "視機能",
+        "照明",
+        "遮光角度",
+        "休息時間"
+      ]
     },
-
     {
       "id": "N0060001",
       "title": "職業安全衛生法",
@@ -97,7 +127,13 @@
       "lastAmended": "114-12-19",
       "url": "number-fill.html?law=N0060001",
       "description": "工時、健康服務、職場霸凌、承攬統合、母性與少年保護、職災通報及現行罰則。",
-      "tags": ["職業安全衛生法", "職場霸凌", "職災通報", "承攬", "罰則"]
+      "tags": [
+        "職業安全衛生法",
+        "職場霸凌",
+        "職災通報",
+        "承攬",
+        "罰則"
+      ]
     },
     {
       "id": "N0060002",
@@ -113,7 +149,13 @@
       "lastAmended": "115-06-26",
       "url": "number-fill.html?law=N0060002",
       "description": "管制與優先管理化學品分類、立即危險、工作守則、諮詢會、職災通報與統計門檻。",
-      "tags": ["職業安全衛生法施行細則", "化學品分類", "職災通報", "諮詢會", "重傷災害"]
+      "tags": [
+        "職業安全衛生法施行細則",
+        "化學品分類",
+        "職災通報",
+        "諮詢會",
+        "重傷災害"
+      ]
     },
     {
       "id": "N0030001",
@@ -129,7 +171,14 @@
       "lastAmended": "113-07-31",
       "url": "number-fill.html?law=N0030001",
       "description": "平均工資、契約與資遣、工時休假、童工女工、退休、職災補償、技術生與罰則的全框訓練。",
-      "tags": ["勞動基準法", "工時", "特別休假", "退休", "職災補償", "罰則"]
+      "tags": [
+        "勞動基準法",
+        "工時",
+        "特別休假",
+        "退休",
+        "職災補償",
+        "罰則"
+      ]
     },
     {
       "id": "N0030002",
@@ -145,7 +194,13 @@
       "lastAmended": "113-03-27",
       "url": "number-fill.html?law=N0030002",
       "description": "定期契約、競業禁止、工時與特休、職災補償、工作規則及勞動檢查的細則門檻。",
-      "tags": ["勞動基準法施行細則", "競業禁止", "特別休假", "職災補償", "工作規則"]
+      "tags": [
+        "勞動基準法施行細則",
+        "競業禁止",
+        "特別休假",
+        "職災補償",
+        "工作規則"
+      ]
     },
     {
       "id": "N0050031",
@@ -161,9 +216,15 @@
       "lastAmended": "110-04-30",
       "url": "number-fill.html?law=N0050031",
       "description": "投保、保費、滯納、傷病與失能給付、遺屬給付、復健、保護與罰則的數字門檻。",
-      "tags": ["職業災害保險", "保險費", "傷病給付", "失能年金", "遺屬給付", "罰則"]
+      "tags": [
+        "職業災害保險",
+        "保險費",
+        "傷病給付",
+        "失能年金",
+        "遺屬給付",
+        "罰則"
+      ]
     },
-
     {
       "id": "N0050039",
       "title": "勞工職業災害保險及保護法施行細則",
@@ -178,7 +239,13 @@
       "lastAmended": "114-05-29",
       "url": "number-fill.html?law=N0050039",
       "description": "投保資料、保險費、醫療與傷病給付、失能與遺屬給付、職災保護的施行細則門檻。",
-      "tags": ["職業災害保險", "投保", "保險費", "傷病給付", "遺屬給付"]
+      "tags": [
+        "職業災害保險",
+        "投保",
+        "保險費",
+        "傷病給付",
+        "遺屬給付"
+      ]
     },
     {
       "id": "N0070001",
@@ -194,7 +261,13 @@
       "lastAmended": "109-06-10",
       "url": "number-fill.html?law=N0070001",
       "description": "勞動檢查方針、檢查結果通知與公告、勞工申訴、危險工作場所及罰則門檻。",
-      "tags": ["勞動檢查法", "檢查方針", "申訴", "危險工作場所", "罰則"]
+      "tags": [
+        "勞動檢查法",
+        "檢查方針",
+        "申訴",
+        "危險工作場所",
+        "罰則"
+      ]
     },
     {
       "id": "N0070004",
@@ -210,7 +283,13 @@
       "lastAmended": "112-12-07",
       "url": "number-fill.html?law=N0070004",
       "description": "檢查年報、檢視與複製、檢查證、異議、危險性工作場所容量及重大職災門檻。",
-      "tags": ["勞動檢查法施行細則", "勞動檢查年報", "異議", "危險性工作場所", "重大職業災害"]
+      "tags": [
+        "勞動檢查法施行細則",
+        "勞動檢查年報",
+        "異議",
+        "危險性工作場所",
+        "重大職業災害"
+      ]
     },
     {
       "id": "N0070016",
@@ -226,7 +305,13 @@
       "lastAmended": "094-06-10",
       "url": "number-fill.html?law=N0070016",
       "description": "墜落、感電、倒塌崩塌、火災爆炸及中毒缺氧的立即危險認定數值門檻。",
-      "tags": ["立即發生危險", "墜落", "感電", "倒塌崩塌", "缺氧"]
+      "tags": [
+        "立即發生危險",
+        "墜落",
+        "感電",
+        "倒塌崩塌",
+        "缺氧"
+      ]
     },
     {
       "id": "N0020008",
@@ -242,9 +327,14 @@
       "lastAmended": "103-04-14",
       "url": "number-fill.html?law=N0020008",
       "description": "勞資會議的設置、代表人數、選派選舉、性別代表、任期、決議與開會期限。",
-      "tags": ["勞資會議", "勞方代表", "選舉", "任期", "會議決議"]
+      "tags": [
+        "勞資會議",
+        "勞方代表",
+        "選舉",
+        "任期",
+        "會議決議"
+      ]
     },
-
     {
       "id": "N0060027",
       "title": "職業安全衛生管理辦法",
@@ -259,7 +349,13 @@
       "lastAmended": "115-06-29",
       "url": "number-fill.html?law=N0060027",
       "description": "安全衛生組織、人員配置、委員會、管理系統與自動檢查週期、檢點、紀錄及報告門檻。",
-      "tags": ["安全衛生管理", "人員配置", "安全衛生委員會", "自動檢查", "檢點"]
+      "tags": [
+        "安全衛生管理",
+        "人員配置",
+        "安全衛生委員會",
+        "自動檢查",
+        "檢點"
+      ]
     },
     {
       "id": "N0060010",
@@ -275,7 +371,13 @@
       "lastAmended": "115-06-25",
       "url": "number-fill.html?law=N0060010",
       "description": "初訓與在職訓練時數、設備適用門檻、訓練週期及辦訓管理期限。",
-      "tags": ["教育訓練", "初訓", "在職訓練", "訓練時數", "辦訓管理"]
+      "tags": [
+        "教育訓練",
+        "初訓",
+        "在職訓練",
+        "訓練時數",
+        "辦訓管理"
+      ]
     },
     {
       "id": "N0060033",
@@ -291,7 +393,13 @@
       "lastAmended": "115-06-12",
       "url": "number-fill.html?law=N0060033",
       "description": "作業環境監測的實施時機、週期、暴露標準、紀錄保存及通報期限。",
-      "tags": ["作業環境監測", "監測週期", "暴露", "紀錄保存", "通報"]
+      "tags": [
+        "作業環境監測",
+        "監測週期",
+        "暴露",
+        "紀錄保存",
+        "通報"
+      ]
     },
     {
       "id": "N0060071",
@@ -307,7 +415,12 @@
       "lastAmended": "109-07-17",
       "url": "number-fill.html?law=N0060071",
       "description": "製程安全評估報告、定期評估、評估人員與改善計畫的期限門檻。",
-      "tags": ["製程安全", "定期評估", "評估報告", "改善計畫"]
+      "tags": [
+        "製程安全",
+        "定期評估",
+        "評估報告",
+        "改善計畫"
+      ]
     },
     {
       "id": "N0070019",
@@ -323,43 +436,393 @@
       "lastAmended": "109-07-17",
       "url": "number-fill.html?law=N0070019",
       "description": "危險性工作場所的容量與高度門檻、審查申請、施工檢查與紀錄保存期限。",
-      "tags": ["危險性工作場所", "審查", "施工檢查", "鍋爐", "高壓氣體"]
+      "tags": [
+        "危險性工作場所",
+        "審查",
+        "施工檢查",
+        "鍋爐",
+        "高壓氣體"
+      ]
     },
-
-    { "id": "N0060009", "title": "職業安全衛生設施規則", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-01", "status": "ready", "questionCount": 294, "uniqueAnswerCount": 235, "sourceBoxCount": 294, "lastAmended": "115-06-30", "url": "number-fill.html?law=N0060009", "description": "工作場所、機械、車輛、火災爆炸、墜落電氣與衛生健康的安全設施門檻。", "tags": ["安全設施", "機械", "墜落", "電氣", "衛生"] },
-    { "id": "N0060014", "title": "營造安全衛生設施標準", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-02", "status": "ready", "questionCount": 231, "uniqueAnswerCount": 175, "sourceBoxCount": 231, "lastAmended": "115-06-30", "url": "number-fill.html?law=N0060014", "description": "營造工程的墜落防護、施工架、開挖、隧道、模板、鋼構與拆除作業門檻。", "tags": ["營造安全", "施工架", "開挖", "模板", "鋼構"] },
-    { "id": "N0060029", "title": "高架作業勞工保護措施標準", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-03", "status": "ready", "questionCount": 10, "uniqueAnswerCount": 10, "sourceBoxCount": 10, "lastAmended": "103-06-25", "url": "number-fill.html?law=N0060029", "description": "高架作業的高度、作業區域、工作臺與防墜保護門檻。", "tags": ["高架作業", "防墜", "工作臺"] },
-    { "id": "N0060007", "title": "高溫作業勞工作息時間標準", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-04", "status": "ready", "questionCount": 21, "uniqueAnswerCount": 21, "sourceBoxCount": 21, "lastAmended": "103-07-01", "url": "number-fill.html?law=N0060007", "description": "高溫作業的 WBGT 指數、工作強度與工作休息時間門檻。", "tags": ["高溫作業", "WBGT", "工作休息"] },
-    { "id": "O0020058", "title": "營建工程空氣污染防制設施管理辦法", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-05", "status": "ready", "questionCount": 57, "uniqueAnswerCount": 46, "sourceBoxCount": 57, "lastAmended": "110-10-18", "url": "number-fill.html?law=O0020058", "description": "營建工程空氣污染防制設施的規模門檻、灑水、覆蓋、清洗與紀錄要求。", "tags": ["營建工程", "空氣污染", "防制設施", "灑水"] },
-
-    { "id": "N0060020", "title": "缺氧症預防規則", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-01", "status": "queued" },
-    { "id": "N0060026", "title": "異常氣壓危害預防標準", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-02", "status": "queued" },
-    { "id": "N0060004", "title": "勞工作業場所容許暴露標準", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-03", "status": "queued" },
-    { "id": "N0060017", "title": "有機溶劑中毒預防規則", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-04", "status": "queued" },
-    { "id": "N0060021", "title": "粉塵危害預防標準", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-05", "status": "queued" },
-
-    { "id": "N0060054", "title": "危害性化學品標示及通識規則", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-01", "status": "queued" },
-    { "id": "N0060070", "title": "危害性化學品評估及分級管理辦法", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-02", "status": "queued" },
-    { "id": "N0060064", "title": "優先管理化學品之指定及運作管理辦法", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-03", "status": "queued" },
-    { "id": "N0060068", "title": "管制性化學品之指定及運作許可管理辦法", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-04", "status": "queued" },
-    { "id": "N0060069", "title": "新化學物質登記管理辦法", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-05", "status": "queued" },
-
-    { "id": "N0060015", "title": "特定化學物質危害預防標準", "category": "化學品管理與危害預防", "batch": 8, "batchTitle": "特定化學危害預防", "order": "08-01", "status": "queued" },
-    { "id": "N0060018", "title": "鉛中毒預防規則", "category": "化學品管理與危害預防", "batch": 8, "batchTitle": "特定化學危害預防", "order": "08-02", "status": "queued" },
-    { "id": "N0060019", "title": "四烷基鉛中毒預防規則", "category": "化學品管理與危害預防", "batch": 8, "batchTitle": "特定化學危害預防", "order": "08-03", "status": "queued" },
-
-    { "id": "N0060039", "title": "危險性機械及設備安全檢查規則", "category": "機械、起重與檢查", "batch": 9, "batchTitle": "起重機械與安全標準", "order": "09-01", "status": "queued" },
-    { "id": "N0060034", "title": "機械設備器具安全標準", "category": "機械、起重與檢查", "batch": 9, "batchTitle": "起重機械與安全標準", "order": "09-02", "status": "queued" },
-    { "id": "N0060013", "title": "起重升降機具安全規則", "category": "機械、起重與檢查", "batch": 9, "batchTitle": "起重機械與安全標準", "order": "09-03", "status": "queued" },
-    { "id": "N0070023", "title": "吊籠安全檢查構造標準", "category": "機械、起重與檢查", "batch": 9, "batchTitle": "起重機械與安全標準", "order": "09-04", "status": "queued" },
-
-    { "id": "N0060011", "title": "鍋爐及壓力容器安全規則", "category": "壓力設備與高壓氣體", "batch": 10, "batchTitle": "壓力設備與高壓氣體", "order": "10-01", "status": "queued" },
-    { "id": "N0060055", "title": "壓力容器安全檢查構造標準", "category": "壓力設備與高壓氣體", "batch": 10, "batchTitle": "壓力設備與高壓氣體", "order": "10-02", "status": "queued" },
-    { "id": "N0060030", "title": "高壓氣體勞工安全規則", "category": "壓力設備與高壓氣體", "batch": 10, "batchTitle": "壓力設備與高壓氣體", "order": "10-03", "status": "queued" },
-
-    { "id": "N0070018", "title": "危險性機械或設備代行檢查機構管理規則", "category": "機械、起重與檢查", "batch": 11, "batchTitle": "機械驗證與監督", "order": "11-01", "status": "queued" },
-    { "id": "N0060056", "title": "機械設備器具安全資訊申報登錄辦法", "category": "機械、起重與檢查", "batch": 11, "batchTitle": "機械驗證與監督", "order": "11-02", "status": "queued" },
-    { "id": "N0060063", "title": "機械設備器具監督管理辦法", "category": "機械、起重與檢查", "batch": 11, "batchTitle": "機械驗證與監督", "order": "11-03", "status": "queued" },
-    { "id": "N0060062", "title": "機械類產品型式驗證實施及監督管理辦法", "category": "機械、起重與檢查", "batch": 11, "batchTitle": "機械驗證與監督", "order": "11-04", "status": "queued" }
+    {
+      "id": "N0060009",
+      "title": "職業安全衛生設施規則",
+      "category": "安全衛生管理與工程",
+      "batch": 5,
+      "batchTitle": "作業設施與工程",
+      "order": "05-01",
+      "status": "ready",
+      "questionCount": 294,
+      "uniqueAnswerCount": 235,
+      "sourceBoxCount": 294,
+      "lastAmended": "115-06-30",
+      "url": "number-fill.html?law=N0060009",
+      "description": "工作場所、機械、車輛、火災爆炸、墜落電氣與衛生健康的安全設施門檻。",
+      "tags": [
+        "安全設施",
+        "機械",
+        "墜落",
+        "電氣",
+        "衛生"
+      ]
+    },
+    {
+      "id": "N0060014",
+      "title": "營造安全衛生設施標準",
+      "category": "安全衛生管理與工程",
+      "batch": 5,
+      "batchTitle": "作業設施與工程",
+      "order": "05-02",
+      "status": "ready",
+      "questionCount": 231,
+      "uniqueAnswerCount": 175,
+      "sourceBoxCount": 231,
+      "lastAmended": "115-06-30",
+      "url": "number-fill.html?law=N0060014",
+      "description": "營造工程的墜落防護、施工架、開挖、隧道、模板、鋼構與拆除作業門檻。",
+      "tags": [
+        "營造安全",
+        "施工架",
+        "開挖",
+        "模板",
+        "鋼構"
+      ]
+    },
+    {
+      "id": "N0060029",
+      "title": "高架作業勞工保護措施標準",
+      "category": "安全衛生管理與工程",
+      "batch": 5,
+      "batchTitle": "作業設施與工程",
+      "order": "05-03",
+      "status": "ready",
+      "questionCount": 10,
+      "uniqueAnswerCount": 10,
+      "sourceBoxCount": 10,
+      "lastAmended": "103-06-25",
+      "url": "number-fill.html?law=N0060029",
+      "description": "高架作業的高度、作業區域、工作臺與防墜保護門檻。",
+      "tags": [
+        "高架作業",
+        "防墜",
+        "工作臺"
+      ]
+    },
+    {
+      "id": "N0060007",
+      "title": "高溫作業勞工作息時間標準",
+      "category": "安全衛生管理與工程",
+      "batch": 5,
+      "batchTitle": "作業設施與工程",
+      "order": "05-04",
+      "status": "ready",
+      "questionCount": 21,
+      "uniqueAnswerCount": 21,
+      "sourceBoxCount": 21,
+      "lastAmended": "103-07-01",
+      "url": "number-fill.html?law=N0060007",
+      "description": "高溫作業的 WBGT 指數、工作強度與工作休息時間門檻。",
+      "tags": [
+        "高溫作業",
+        "WBGT",
+        "工作休息"
+      ]
+    },
+    {
+      "id": "O0020058",
+      "title": "營建工程空氣污染防制設施管理辦法",
+      "category": "安全衛生管理與工程",
+      "batch": 5,
+      "batchTitle": "作業設施與工程",
+      "order": "05-05",
+      "status": "ready",
+      "questionCount": 57,
+      "uniqueAnswerCount": 46,
+      "sourceBoxCount": 57,
+      "lastAmended": "110-10-18",
+      "url": "number-fill.html?law=O0020058",
+      "description": "營建工程空氣污染防制設施的規模門檻、灑水、覆蓋、清洗與紀錄要求。",
+      "tags": [
+        "營建工程",
+        "空氣污染",
+        "防制設施",
+        "灑水"
+      ]
+    },
+    {
+      "id": "N0060020",
+      "title": "缺氧症預防規則",
+      "category": "特殊作業與職業衛生",
+      "batch": 6,
+      "batchTitle": "特殊環境與暴露",
+      "order": "06-01",
+      "status": "ready",
+      "questionCount": 8,
+      "uniqueAnswerCount": 7,
+      "sourceBoxCount": 8,
+      "lastAmended": "103-06-26",
+      "url": "number-fill.html?law=N0060020",
+      "description": "缺氧症預防的氧氣濃度、作業許可、監視與救援門檻。",
+      "tags": [
+        "缺氧症",
+        "氧氣濃度",
+        "作業許可"
+      ]
+    },
+    {
+      "id": "N0060026",
+      "title": "異常氣壓危害預防標準",
+      "category": "特殊作業與職業衛生",
+      "batch": 6,
+      "batchTitle": "特殊環境與暴露",
+      "order": "06-02",
+      "status": "ready",
+      "questionCount": 130,
+      "uniqueAnswerCount": 81,
+      "sourceBoxCount": 130,
+      "lastAmended": "103-06-25",
+      "url": "number-fill.html?law=N0060026",
+      "description": "異常氣壓作業的壓力、減壓、作業時間、設備與健康管理門檻。",
+      "tags": [
+        "異常氣壓",
+        "減壓",
+        "潛水",
+        "高壓室"
+      ]
+    },
+    {
+      "id": "N0060004",
+      "title": "勞工作業場所容許暴露標準",
+      "category": "特殊作業與職業衛生",
+      "batch": 6,
+      "batchTitle": "特殊環境與暴露",
+      "order": "06-03",
+      "status": "ready",
+      "questionCount": 10,
+      "uniqueAnswerCount": 6,
+      "sourceBoxCount": 10,
+      "lastAmended": "114-04-11",
+      "url": "number-fill.html?law=N0060004",
+      "description": "容許濃度的定義、時量平均、短時間平均與附表規定。",
+      "tags": [
+        "容許暴露",
+        "時量平均",
+        "濃度",
+        "附表"
+      ]
+    },
+    {
+      "id": "N0060017",
+      "title": "有機溶劑中毒預防規則",
+      "category": "特殊作業與職業衛生",
+      "batch": 6,
+      "batchTitle": "特殊環境與暴露",
+      "order": "06-04",
+      "status": "ready",
+      "questionCount": 37,
+      "uniqueAnswerCount": 21,
+      "sourceBoxCount": 37,
+      "lastAmended": "114-05-14",
+      "url": "number-fill.html?law=N0060017",
+      "description": "有機溶劑作業的設備、通風、健康保護與管理門檻。",
+      "tags": [
+        "有機溶劑",
+        "中毒預防",
+        "通風",
+        "健康保護"
+      ]
+    },
+    {
+      "id": "N0060021",
+      "title": "粉塵危害預防標準",
+      "category": "特殊作業與職業衛生",
+      "batch": 6,
+      "batchTitle": "特殊環境與暴露",
+      "order": "06-05",
+      "status": "ready",
+      "questionCount": 11,
+      "uniqueAnswerCount": 10,
+      "sourceBoxCount": 11,
+      "lastAmended": "103-06-25",
+      "url": "number-fill.html?law=N0060021",
+      "description": "粉塵作業的設備、通風、清掃與健康保護門檻。",
+      "tags": [
+        "粉塵",
+        "通風",
+        "清掃",
+        "健康保護"
+      ]
+    },
+    {
+      "id": "N0060054",
+      "title": "危害性化學品標示及通識規則",
+      "category": "化學品管理與危害預防",
+      "batch": 7,
+      "batchTitle": "化學品管理制度",
+      "order": "07-01",
+      "status": "queued"
+    },
+    {
+      "id": "N0060070",
+      "title": "危害性化學品評估及分級管理辦法",
+      "category": "化學品管理與危害預防",
+      "batch": 7,
+      "batchTitle": "化學品管理制度",
+      "order": "07-02",
+      "status": "queued"
+    },
+    {
+      "id": "N0060064",
+      "title": "優先管理化學品之指定及運作管理辦法",
+      "category": "化學品管理與危害預防",
+      "batch": 7,
+      "batchTitle": "化學品管理制度",
+      "order": "07-03",
+      "status": "queued"
+    },
+    {
+      "id": "N0060068",
+      "title": "管制性化學品之指定及運作許可管理辦法",
+      "category": "化學品管理與危害預防",
+      "batch": 7,
+      "batchTitle": "化學品管理制度",
+      "order": "07-04",
+      "status": "queued"
+    },
+    {
+      "id": "N0060069",
+      "title": "新化學物質登記管理辦法",
+      "category": "化學品管理與危害預防",
+      "batch": 7,
+      "batchTitle": "化學品管理制度",
+      "order": "07-05",
+      "status": "queued"
+    },
+    {
+      "id": "N0060015",
+      "title": "特定化學物質危害預防標準",
+      "category": "化學品管理與危害預防",
+      "batch": 8,
+      "batchTitle": "特定化學危害預防",
+      "order": "08-01",
+      "status": "queued"
+    },
+    {
+      "id": "N0060018",
+      "title": "鉛中毒預防規則",
+      "category": "化學品管理與危害預防",
+      "batch": 8,
+      "batchTitle": "特定化學危害預防",
+      "order": "08-02",
+      "status": "queued"
+    },
+    {
+      "id": "N0060019",
+      "title": "四烷基鉛中毒預防規則",
+      "category": "化學品管理與危害預防",
+      "batch": 8,
+      "batchTitle": "特定化學危害預防",
+      "order": "08-03",
+      "status": "queued"
+    },
+    {
+      "id": "N0060039",
+      "title": "危險性機械及設備安全檢查規則",
+      "category": "機械、起重與檢查",
+      "batch": 9,
+      "batchTitle": "起重機械與安全標準",
+      "order": "09-01",
+      "status": "queued"
+    },
+    {
+      "id": "N0060034",
+      "title": "機械設備器具安全標準",
+      "category": "機械、起重與檢查",
+      "batch": 9,
+      "batchTitle": "起重機械與安全標準",
+      "order": "09-02",
+      "status": "queued"
+    },
+    {
+      "id": "N0060013",
+      "title": "起重升降機具安全規則",
+      "category": "機械、起重與檢查",
+      "batch": 9,
+      "batchTitle": "起重機械與安全標準",
+      "order": "09-03",
+      "status": "queued"
+    },
+    {
+      "id": "N0070023",
+      "title": "吊籠安全檢查構造標準",
+      "category": "機械、起重與檢查",
+      "batch": 9,
+      "batchTitle": "起重機械與安全標準",
+      "order": "09-04",
+      "status": "queued"
+    },
+    {
+      "id": "N0060011",
+      "title": "鍋爐及壓力容器安全規則",
+      "category": "壓力設備與高壓氣體",
+      "batch": 10,
+      "batchTitle": "壓力設備與高壓氣體",
+      "order": "10-01",
+      "status": "queued"
+    },
+    {
+      "id": "N0060055",
+      "title": "壓力容器安全檢查構造標準",
+      "category": "壓力設備與高壓氣體",
+      "batch": 10,
+      "batchTitle": "壓力設備與高壓氣體",
+      "order": "10-02",
+      "status": "queued"
+    },
+    {
+      "id": "N0060030",
+      "title": "高壓氣體勞工安全規則",
+      "category": "壓力設備與高壓氣體",
+      "batch": 10,
+      "batchTitle": "壓力設備與高壓氣體",
+      "order": "10-03",
+      "status": "queued"
+    },
+    {
+      "id": "N0070018",
+      "title": "危險性機械或設備代行檢查機構管理規則",
+      "category": "機械、起重與檢查",
+      "batch": 11,
+      "batchTitle": "機械驗證與監督",
+      "order": "11-01",
+      "status": "queued"
+    },
+    {
+      "id": "N0060056",
+      "title": "機械設備器具安全資訊申報登錄辦法",
+      "category": "機械、起重與檢查",
+      "batch": 11,
+      "batchTitle": "機械驗證與監督",
+      "order": "11-02",
+      "status": "queued"
+    },
+    {
+      "id": "N0060063",
+      "title": "機械設備器具監督管理辦法",
+      "category": "機械、起重與檢查",
+      "batch": 11,
+      "batchTitle": "機械驗證與監督",
+      "order": "11-03",
+      "status": "queued"
+    },
+    {
+      "id": "N0060062",
+      "title": "機械類產品型式驗證實施及監督管理辦法",
+      "category": "機械、起重與檢查",
+      "batch": 11,
+      "batchTitle": "機械驗證與監督",
+      "order": "11-04",
+      "status": "queued"
+    }
   ]
 }

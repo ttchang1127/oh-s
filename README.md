@@ -59,3 +59,8 @@
 | [高架作業勞工保護措施標準](quizzes/number-fill.html?law=N0060029) | 10 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [高溫作業勞工作息時間標準](quizzes/number-fill.html?law=N0060007) | 21 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [營建工程空氣污染防制設施管理辦法](quizzes/number-fill.html?law=O0020058) | 57 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [缺氧症預防規則](quizzes/number-fill.html?law=N0060020) | 8 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [異常氣壓危害預防標準](quizzes/number-fill.html?law=N0060026) | 130 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [勞工作業場所容許暴露標準](quizzes/number-fill.html?law=N0060004) | 10 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [有機溶劑中毒預防規則](quizzes/number-fill.html?law=N0060017) | 37 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [粉塵危害預防標準](quizzes/number-fill.html?law=N0060021) | 11 | 逐題練習、模擬考、錯題重做、A4列印 |
