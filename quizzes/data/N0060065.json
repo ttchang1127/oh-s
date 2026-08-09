@@ -1,0 +1,190 @@
+{
+  "lawName": "女性勞工母性健康保護實施辦法",
+  "title": "女性勞工母性健康保護實施辦法｜數字填空",
+  "pcode": "N0060065",
+  "lastAmended": "113-05-31",
+  "verifiedOn": "2026-08-05",
+  "questionCount": 14,
+  "sourceBoxCount": 18,
+  "uniqueAnswerCount": 13,
+  "questions": [
+    {
+      "id": "q01",
+      "source": "§2",
+      "group": "條文",
+      "prompt": "母性健康保護期間為得知妊娠之日起至分娩後〔　〕。",
+      "answer": "一年",
+      "accept": ["一年", "1年"],
+      "core": ["一", "1"],
+      "requirements": [{"label": "單位「年」", "tokens": ["年"]}],
+      "sourceText": "母性健康保護期間，指雇主於得知女性勞工妊娠之日起至分娩後一年之期間。"
+    },
+    {
+      "id": "q02",
+      "source": "§9",
+      "group": "條文",
+      "prompt": "作業場所空氣中暴露濃度低於容許暴露標準〔　〕者，屬第一級管理。",
+      "answer": "十分之一",
+      "accept": ["十分之一", "1/10", "10分之1"],
+      "core": ["十分之一", "1/10", "10分之1"],
+      "requirements": [],
+      "sourceText": "第一級管理：作業場所空氣中暴露濃度低於容許暴露標準十分之一。"
+    },
+    {
+      "id": "q03",
+      "source": "§9",
+      "group": "條文",
+      "prompt": "作業場所空氣中暴露濃度在容許暴露標準〔　〕以上者，屬第三級管理。",
+      "answer": "二分之一",
+      "accept": ["二分之一", "1/2", "2分之1"],
+      "core": ["二分之一", "1/2", "2分之1"],
+      "requirements": [],
+      "sourceText": "第三級管理：作業場所空氣中暴露濃度在容許暴露標準二分之一以上。"
+    },
+    {
+      "id": "q04",
+      "source": "§10",
+      "group": "條文",
+      "prompt": "鉛作業血中鉛濃度低於〔　〕者，屬第一級管理。",
+      "answer": "五 μg/dl",
+      "accept": ["五μg/dl", "5μg/dl", "五ug/dl", "5ug/dl"],
+      "core": ["五", "5"],
+      "requirements": [{"label": "單位「μg/dl」", "tokens": ["μg/dl", "ug/dl"]}],
+      "sourceText": "第一級管理：血中鉛濃度低於五 μg/dl 者。"
+    },
+    {
+      "id": "q05",
+      "source": "§10",
+      "group": "條文",
+      "prompt": "鉛作業血中鉛濃度在〔　〕以上者，屬第三級管理。",
+      "answer": "十 μg/dl",
+      "accept": ["十μg/dl", "10μg/dl", "十ug/dl", "10ug/dl"],
+      "core": ["十", "10"],
+      "requirements": [{"label": "單位「μg/dl」", "tokens": ["μg/dl", "ug/dl"]}],
+      "sourceText": "第三級管理：血中鉛濃度在十 μg/dl 以上者。"
+    },
+    {
+      "id": "q06",
+      "source": "§14",
+      "group": "條文",
+      "prompt": "雇主應將危害評估、面談指導及適性評估之相關文件紀錄至少保存〔　〕。",
+      "answer": "三年",
+      "accept": ["三年", "3年"],
+      "core": ["三", "3"],
+      "requirements": [{"label": "單位「年」", "tokens": ["年"]}],
+      "sourceText": "相關文件及紀錄至少保存三年。"
+    },
+    {
+      "id": "q07",
+      "source": "§15",
+      "group": "條文",
+      "prompt": "女性勞工分娩滿〔　〕後仍在哺乳者，得請求雇主採取母性健康保護。",
+      "answer": "一年",
+      "accept": ["一年", "1年"],
+      "core": ["一", "1"],
+      "requirements": [{"label": "單位「年」", "tokens": ["年"]}],
+      "sourceText": "女性勞工分娩滿一年後，仍在哺乳者，得請求雇主採取母性健康保護。"
+    },
+    {
+      "id": "q08",
+      "source": "§12",
+      "group": "條文",
+      "prompt": "適性評估時，雇主應提供最近〔　〕之健康檢查及作業環境監測紀錄予醫師。",
+      "answer": "一次",
+      "accept": ["一次", "1次"],
+      "core": ["一", "1"],
+      "requirements": [{"label": "單位「次」", "tokens": ["次"]}],
+      "sourceText": "雇主應將評估結果與最近一次之健康檢查、作業環境監測紀錄及危害暴露情形等資料提供予醫師。"
+    },
+    {
+      "id": "q09",
+      "source": "§7／附表二",
+      "group": "附表",
+      "prompt": "過去曾有第 2 孕期〔　〕之流產，屬過去懷孕病史。",
+      "answer": "14 週以上",
+      "accept": ["14週以上", "十四週以上"],
+      "core": ["14", "十四"],
+      "requirements": [
+        {"label": "單位「週」", "tokens": ["週"]},
+        {"label": "邊界詞「以上」", "tokens": ["以上"]}
+      ],
+      "conflicts": ["未滿", "以下", "低於"],
+      "sourceText": "過去曾有第 2 孕期流產：14 週以上。"
+    },
+    {
+      "id": "q10",
+      "source": "§7／附表二",
+      "group": "附表",
+      "prompt": "早產史指懷孕〔　〕之生產。",
+      "answer": "未滿 37 週",
+      "accept": ["未滿37週", "未滿三十七週"],
+      "core": ["37", "三十七"],
+      "requirements": [
+        {"label": "邊界詞「未滿」", "tokens": ["未滿"]},
+        {"label": "單位「週」", "tokens": ["週"]}
+      ],
+      "conflicts": ["以上", "大於", "超過"],
+      "sourceText": "早產史：懷孕未滿 37 週生產。"
+    },
+    {
+      "id": "q11",
+      "source": "§7／附表二",
+      "group": "附表",
+      "prompt": "年齡風險因子為〔　〕或（另一數值條件）。",
+      "answer": "未滿 18 歲",
+      "accept": ["未滿18歲", "未滿十八歲"],
+      "core": ["18", "十八"],
+      "requirements": [
+        {"label": "邊界詞「未滿」", "tokens": ["未滿"]},
+        {"label": "單位「歲」", "tokens": ["歲"]}
+      ],
+      "conflicts": ["以上", "大於", "超過"],
+      "sourceText": "年齡風險因子下限：未滿 18 歲。"
+    },
+    {
+      "id": "q12",
+      "source": "§7／附表二",
+      "group": "附表",
+      "prompt": "年齡風險因子為（另一數值條件）或〔　〕。",
+      "answer": "大於 40 歲",
+      "accept": ["大於40歲", "大於四十歲"],
+      "core": ["40", "四十"],
+      "requirements": [
+        {"label": "邊界詞「大於」", "tokens": ["大於"]},
+        {"label": "單位「歲」", "tokens": ["歲"]}
+      ],
+      "conflicts": ["未滿", "以下", "低於"],
+      "sourceText": "年齡風險因子上限：大於 40 歲。"
+    },
+    {
+      "id": "q13",
+      "source": "§7／附表二",
+      "group": "附表",
+      "prompt": "孕前體重〔　〕屬母性風險因子。",
+      "answer": "未滿 45 公斤",
+      "accept": ["未滿45公斤", "未滿四十五公斤", "未滿45kg"],
+      "core": ["45", "四十五"],
+      "requirements": [
+        {"label": "邊界詞「未滿」", "tokens": ["未滿"]},
+        {"label": "單位「公斤」", "tokens": ["公斤", "kg"]}
+      ],
+      "conflicts": ["以上", "大於", "超過"],
+      "sourceText": "孕前體重風險因子：未滿 45 公斤。"
+    },
+    {
+      "id": "q14",
+      "source": "§7／附表二",
+      "group": "附表",
+      "prompt": "身高〔　〕屬母性風險因子。",
+      "answer": "未滿 150 公分",
+      "accept": ["未滿150公分", "未滿一百五十公分", "未滿150cm"],
+      "core": ["150", "一百五十"],
+      "requirements": [
+        {"label": "邊界詞「未滿」", "tokens": ["未滿"]},
+        {"label": "單位「公分」", "tokens": ["公分", "cm"]}
+      ],
+      "conflicts": ["以上", "大於", "超過"],
+      "sourceText": "身高風險因子：未滿 150 公分。"
+    }
+  ]
+}

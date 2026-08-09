@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>數字填空訓練｜職安主題整理</title>
+<meta name="description" content="女性勞工母性健康保護實施辦法數字填空：14題互動練習、模擬考、錯題重做與A4列印。">
+<link rel="stylesheet" href="../assets/site.css">
+<link rel="stylesheet" href="../assets/number-quiz.css">
+<script src="../assets/number-quiz.js" defer></script>
+</head>
+<body>
+<div class="wrap quiz-shell">
+  <a class="backlink screen-only" href="../index.html">← 回主題總覽</a>
+
+  <header class="quiz-header">
+    <p class="eyebrow">數字框選列印版 · 互動填空試點</p>
+    <h1 id="quiz-title">數字填空訓練</h1>
+    <p class="lede" id="quiz-lede">正在載入題庫……</p>
+  </header>
+
+  <div class="meta-grid" aria-label="題庫資訊">
+    <div class="meta-card"><span class="k">題數</span><div class="v"><span id="meta-questions">—</span> <small>題</small></div></div>
+    <div class="meta-card"><span class="k">相異答案</span><div class="v"><span id="meta-unique">—</span> <small>種</small></div></div>
+    <div class="meta-card"><span class="k">來源框</span><div class="v"><span id="meta-boxes">—</span> <small>個</small></div></div>
+    <div class="meta-card"><span class="k">版本</span><div class="v"><span id="meta-version">—</span> <small id="meta-pcode"></small></div></div>
+  </div>
+
+  <div class="callout danger screen-only">
+    <div class="callout-title">作答判準</div>
+    <p>數字、單位與「以上／未滿／大於」等邊界詞都屬答案。數字正確但漏掉邊界或單位，仍不算完全正確。</p>
+  </div>
+
+  <nav class="quiz-toolbar screen-only" aria-label="測驗模式">
+    <button type="button" class="quiz-mode-button active" data-mode="practice">逐題練習</button>
+    <button type="button" class="quiz-mode-button" data-mode="exam">模擬考試</button>
+    <button type="button" class="quiz-mode-button" data-mode="wrong">錯題重做 <span id="wrong-count">0</span></button>
+    <button type="button" class="quiz-mode-button" id="print-button">列印試題＋答案</button>
+  </nav>
+
+  <div id="loading" class="panel quiz-loading">正在載入題庫……</div>
+  <div id="error" class="panel quiz-error" hidden></div>
+
+  <main id="practice-view" class="screen-only" hidden>
+    <div class="quiz-progress-wrap" aria-label="作答進度">
+      <div class="quiz-progress-meta"><strong id="practice-label">逐題練習</strong><span id="progress-text">1／14</span></div>
+      <div class="quiz-progress"><span id="progress-bar"></span></div>
+    </div>
+
+    <article class="panel quiz-card" id="practice-card">
+      <div class="quiz-question-head">
+        <span class="pill teal" id="question-source">§—</span>
+        <span class="pill" id="question-group">條文</span>
+        <span class="quiz-question-number" id="question-number">第 1 題</span>
+      </div>
+      <p class="quiz-prompt" id="question-prompt"></p>
+      <label class="quiz-answer-label" for="practice-input">填入完整框選文字</label>
+      <div class="quiz-answer-row">
+        <input id="practice-input" class="quiz-input" type="text" autocomplete="off" inputmode="text" placeholder="例如：未滿 37 週">
+        <button type="button" class="quiz-btn primary" id="check-button">檢查答案</button>
+      </div>
+      <div id="practice-feedback" class="quiz-feedback" aria-live="polite" hidden></div>
+      <details id="source-details" class="quiz-source" hidden>
+        <summary>查看來源框所屬內容</summary>
+        <p id="source-text"></p>
+      </details>
+    </article>
+
+    <div class="quiz-nav">
+      <button type="button" class="quiz-btn secondary" id="prev-button">← 上一題</button>
+      <button type="button" class="quiz-btn secondary" id="next-button">下一題 →</button>
+    </div>
+  </main>
+
+  <main id="exam-view" class="screen-only" hidden>
+    <div class="panel">
+      <h2>模擬考試</h2>
+      <p>題序已隨機排列。作答期間不提示答案；送出後一次顯示分數及錯題原因。</p>
+      <div id="exam-questions" class="exam-list"></div>
+      <button type="button" class="quiz-btn primary wide" id="submit-exam">送出全部答案</button>
+      <div id="exam-result" class="quiz-result" aria-live="polite" hidden></div>
+    </div>
+  </main>
+
+  <section id="print-view" class="print-only" aria-label="列印試題與答案">
+    <h1 id="print-title">數字填空訓練</h1>
+    <p id="print-meta"></p>
+    <div id="print-questions"></div>
+    <section class="print-answer-sheet">
+      <h2>參考答案</h2>
+      <div id="print-answers"></div>
+    </section>
+  </section>
+
+  <footer class="screen-only">
+    題庫來源：Obsidian「女性勞工母性健康保護實施辦法_數字框選列印版」；答案均須能回溯至第一部分既有框。<br>
+    本頁為考試練習，實務適用請以主管機關最新公告為準。
+  </footer>
+</div>
+</body>
+</html>
