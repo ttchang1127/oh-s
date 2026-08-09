@@ -115,7 +115,22 @@
       "description": "管制與優先管理化學品分類、立即危險、工作守則、諮詢會、職災通報與統計門檻。",
       "tags": ["職業安全衛生法施行細則", "化學品分類", "職災通報", "諮詢會", "重傷災害"]
     },
-    { "id": "N0030001", "title": "勞動基準法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-03", "status": "queued" },
+    {
+      "id": "N0030001",
+      "title": "勞動基準法",
+      "category": "核心法規與勞動制度",
+      "batch": 2,
+      "batchTitle": "核心母法與施行細則",
+      "order": "02-03",
+      "status": "ready",
+      "questionCount": 183,
+      "uniqueAnswerCount": 128,
+      "sourceBoxCount": 183,
+      "lastAmended": "113-07-31",
+      "url": "number-fill.html?law=N0030001",
+      "description": "平均工資、契約與資遣、工時休假、童工女工、退休、職災補償、技術生與罰則的全框訓練。",
+      "tags": ["勞動基準法", "工時", "特別休假", "退休", "職災補償", "罰則"]
+    },
     { "id": "N0030002", "title": "勞動基準法施行細則", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-04", "status": "queued" },
     { "id": "N0050031", "title": "勞工職業災害保險及保護法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-05", "status": "queued" },
 
