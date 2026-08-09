@@ -83,7 +83,22 @@
       "tags": ["精密作業", "視機能", "照明", "遮光角度", "休息時間"]
     },
 
-    { "id": "N0060001", "title": "職業安全衛生法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-01", "status": "queued" },
+    {
+      "id": "N0060001",
+      "title": "職業安全衛生法",
+      "category": "核心法規與勞動制度",
+      "batch": 2,
+      "batchTitle": "核心母法與施行細則",
+      "order": "02-01",
+      "status": "ready",
+      "questionCount": 45,
+      "uniqueAnswerCount": 39,
+      "sourceBoxCount": 45,
+      "lastAmended": "114-12-19",
+      "url": "number-fill.html?law=N0060001",
+      "description": "工時、健康服務、職場霸凌、承攬統合、母性與少年保護、職災通報及現行罰則。",
+      "tags": ["職業安全衛生法", "職場霸凌", "職災通報", "承攬", "罰則"]
+    },
     { "id": "N0060002", "title": "職業安全衛生法施行細則", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-02", "status": "queued" },
     { "id": "N0030001", "title": "勞動基準法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-03", "status": "queued" },
     { "id": "N0030002", "title": "勞動基準法施行細則", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-04", "status": "queued" },

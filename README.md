@@ -39,3 +39,4 @@
 | [勞工健康保護規則](quizzes/number-fill.html?law=N0060022) | 158 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [重體力勞動作業勞工保護措施標準](quizzes/number-fill.html?law=N0060016) | 8 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [精密作業勞工視機能保護設施標準](quizzes/number-fill.html?law=N0060012) | 11 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [職業安全衛生法](quizzes/number-fill.html?law=N0060001) | 45 | 逐題練習、模擬考、錯題重做、A4列印 |
