@@ -50,7 +50,22 @@
       "description": "醫護人力配置、臨場頻率、健康服務訓練、一般與特殊健檢、紀錄保存、健康管理分級及 116～117 年新制。",
       "tags": ["醫護配置", "臨場頻率", "健檢", "健康管理", "新制", "附表"]
     },
-    { "id": "N0060016", "title": "重體力勞動作業勞工保護措施標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-04", "status": "queued" },
+    {
+      "id": "N0060016",
+      "title": "重體力勞動作業勞工保護措施標準",
+      "category": "母性與健康保護",
+      "batch": 1,
+      "batchTitle": "母性與健康保護",
+      "order": "01-04",
+      "status": "ready",
+      "questionCount": 8,
+      "uniqueAnswerCount": 7,
+      "sourceBoxCount": 8,
+      "lastAmended": "103-06-30",
+      "url": "number-fill.html?law=N0060016",
+      "description": "搬運、壓延、敲擊、鍛造、熔液與纜索作業的重量門檻，以及每小時最低休息時間。",
+      "tags": ["重體力勞動", "重量門檻", "搬運", "休息時間"]
+    },
     { "id": "N0060012", "title": "精密作業勞工視機能保護設施標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-05", "status": "queued" },
 
     { "id": "N0060001", "title": "職業安全衛生法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-01", "status": "queued" },
