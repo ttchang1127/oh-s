@@ -12,7 +12,7 @@
 - `topics/` — 各主題頁（分頁板塊式）
 - `quizzes/index.html` — 數字填空訓練專區與題庫搜尋
 - `quizzes/number-fill.html` — 共用互動填空引擎
-- `quizzes/catalog.json`、`quizzes/data/` — 題庫目錄與各法規題庫資料
+- `quizzes/catalog.json`、`quizzes/data/` — 11 批發布目錄、主題分類與各法規題庫資料
 - `assets/site.css` — 共用樣式
 
 ## 目前主題

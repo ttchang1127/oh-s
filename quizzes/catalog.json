@@ -1,10 +1,14 @@
 {
   "updated": "2026-08-09",
+  "plannedBatches": 11,
   "quizzes": [
     {
       "id": "N0060065",
       "title": "女性勞工母性健康保護實施辦法",
-      "category": "健康保護",
+      "category": "母性與健康保護",
+      "batch": 1,
+      "batchTitle": "母性與健康保護",
+      "order": "01-01",
       "status": "ready",
       "questionCount": 14,
       "uniqueAnswerCount": 13,
@@ -13,6 +17,64 @@
       "url": "number-fill.html?law=N0060065",
       "description": "母性保護期間、化學品暴露與血中鉛濃度分級、文件保存，以及附表二懷孕與母性風險因子。",
       "tags": ["母性保護", "風險分級", "附表", "濃度", "保存年限"]
-    }
+    },
+    { "id": "N0060032", "title": "妊娠與分娩後女性及未滿十八歲勞工禁止從事危險性或有害性工作認定標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-02", "status": "queued" },
+    { "id": "N0060022", "title": "勞工健康保護規則", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-03", "status": "queued" },
+    { "id": "N0060016", "title": "重體力勞動作業勞工保護措施標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-04", "status": "queued" },
+    { "id": "N0060012", "title": "精密作業勞工視機能保護設施標準", "category": "母性與健康保護", "batch": 1, "batchTitle": "母性與健康保護", "order": "01-05", "status": "queued" },
+
+    { "id": "N0060001", "title": "職業安全衛生法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-01", "status": "queued" },
+    { "id": "N0060002", "title": "職業安全衛生法施行細則", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-02", "status": "queued" },
+    { "id": "N0030001", "title": "勞動基準法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-03", "status": "queued" },
+    { "id": "N0030002", "title": "勞動基準法施行細則", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-04", "status": "queued" },
+    { "id": "N0050031", "title": "勞工職業災害保險及保護法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-05", "status": "queued" },
+
+    { "id": "N0050039", "title": "勞工職業災害保險及保護法施行細則", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-01", "status": "queued" },
+    { "id": "N0070001", "title": "勞動檢查法", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-02", "status": "queued" },
+    { "id": "N0070004", "title": "勞動檢查法施行細則", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-03", "status": "queued" },
+    { "id": "N0070016", "title": "勞動檢查法第二十八條所定勞工有立即發生危險之虞認定標準", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-04", "status": "queued" },
+    { "id": "N0020008", "title": "勞資會議實施辦法", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-05", "status": "queued" },
+
+    { "id": "N0060027", "title": "職業安全衛生管理辦法", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-01", "status": "queued" },
+    { "id": "N0060010", "title": "職業安全衛生教育訓練規則", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-02", "status": "queued" },
+    { "id": "N0060033", "title": "勞工作業環境監測實施辦法", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-03", "status": "queued" },
+    { "id": "N0060071", "title": "製程安全評估定期實施辦法", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-04", "status": "queued" },
+    { "id": "N0070019", "title": "危險性工作場所審查及檢查辦法", "category": "安全衛生管理與工程", "batch": 4, "batchTitle": "管理、教育與風險評估", "order": "04-05", "status": "queued" },
+
+    { "id": "N0060009", "title": "職業安全衛生設施規則", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-01", "status": "queued" },
+    { "id": "N0060014", "title": "營造安全衛生設施標準", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-02", "status": "queued" },
+    { "id": "N0060029", "title": "高架作業勞工保護措施標準", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-03", "status": "queued" },
+    { "id": "N0060007", "title": "高溫作業勞工作息時間標準", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-04", "status": "queued" },
+    { "id": "O0020058", "title": "營建工程空氣污染防制設施管理辦法", "category": "安全衛生管理與工程", "batch": 5, "batchTitle": "作業設施與工程", "order": "05-05", "status": "queued" },
+
+    { "id": "N0060020", "title": "缺氧症預防規則", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-01", "status": "queued" },
+    { "id": "N0060026", "title": "異常氣壓危害預防標準", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-02", "status": "queued" },
+    { "id": "N0060004", "title": "勞工作業場所容許暴露標準", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-03", "status": "queued" },
+    { "id": "N0060017", "title": "有機溶劑中毒預防規則", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-04", "status": "queued" },
+    { "id": "N0060021", "title": "粉塵危害預防標準", "category": "特殊作業與職業衛生", "batch": 6, "batchTitle": "特殊環境與暴露", "order": "06-05", "status": "queued" },
+
+    { "id": "N0060054", "title": "危害性化學品標示及通識規則", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-01", "status": "queued" },
+    { "id": "N0060070", "title": "危害性化學品評估及分級管理辦法", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-02", "status": "queued" },
+    { "id": "N0060064", "title": "優先管理化學品之指定及運作管理辦法", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-03", "status": "queued" },
+    { "id": "N0060068", "title": "管制性化學品之指定及運作許可管理辦法", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-04", "status": "queued" },
+    { "id": "N0060069", "title": "新化學物質登記管理辦法", "category": "化學品管理與危害預防", "batch": 7, "batchTitle": "化學品管理制度", "order": "07-05", "status": "queued" },
+
+    { "id": "N0060015", "title": "特定化學物質危害預防標準", "category": "化學品管理與危害預防", "batch": 8, "batchTitle": "特定化學危害預防", "order": "08-01", "status": "queued" },
+    { "id": "N0060018", "title": "鉛中毒預防規則", "category": "化學品管理與危害預防", "batch": 8, "batchTitle": "特定化學危害預防", "order": "08-02", "status": "queued" },
+    { "id": "N0060019", "title": "四烷基鉛中毒預防規則", "category": "化學品管理與危害預防", "batch": 8, "batchTitle": "特定化學危害預防", "order": "08-03", "status": "queued" },
+
+    { "id": "N0060039", "title": "危險性機械及設備安全檢查規則", "category": "機械、起重與檢查", "batch": 9, "batchTitle": "起重機械與安全標準", "order": "09-01", "status": "queued" },
+    { "id": "N0060034", "title": "機械設備器具安全標準", "category": "機械、起重與檢查", "batch": 9, "batchTitle": "起重機械與安全標準", "order": "09-02", "status": "queued" },
+    { "id": "N0060013", "title": "起重升降機具安全規則", "category": "機械、起重與檢查", "batch": 9, "batchTitle": "起重機械與安全標準", "order": "09-03", "status": "queued" },
+    { "id": "N0070023", "title": "吊籠安全檢查構造標準", "category": "機械、起重與檢查", "batch": 9, "batchTitle": "起重機械與安全標準", "order": "09-04", "status": "queued" },
+
+    { "id": "N0060011", "title": "鍋爐及壓力容器安全規則", "category": "壓力設備與高壓氣體", "batch": 10, "batchTitle": "壓力設備與高壓氣體", "order": "10-01", "status": "queued" },
+    { "id": "N0060055", "title": "壓力容器安全檢查構造標準", "category": "壓力設備與高壓氣體", "batch": 10, "batchTitle": "壓力設備與高壓氣體", "order": "10-02", "status": "queued" },
+    { "id": "N0060030", "title": "高壓氣體勞工安全規則", "category": "壓力設備與高壓氣體", "batch": 10, "batchTitle": "壓力設備與高壓氣體", "order": "10-03", "status": "queued" },
+
+    { "id": "N0070018", "title": "危險性機械或設備代行檢查機構管理規則", "category": "機械、起重與檢查", "batch": 11, "batchTitle": "機械驗證與監督", "order": "11-01", "status": "queued" },
+    { "id": "N0060056", "title": "機械設備器具安全資訊申報登錄辦法", "category": "機械、起重與檢查", "batch": 11, "batchTitle": "機械驗證與監督", "order": "11-02", "status": "queued" },
+    { "id": "N0060063", "title": "機械設備器具監督管理辦法", "category": "機械、起重與檢查", "batch": 11, "batchTitle": "機械驗證與監督", "order": "11-03", "status": "queued" },
+    { "id": "N0060062", "title": "機械類產品型式驗證實施及監督管理辦法", "category": "機械、起重與檢查", "batch": 11, "batchTitle": "機械驗證與監督", "order": "11-04", "status": "queued" }
   ]
 }

@@ -15,13 +15,13 @@
 
   <p class="eyebrow">Occupational Safety · Number Fill Training</p>
   <h1>數字填空訓練</h1>
-  <p class="lede">所有法規測驗集中在這個專區。題庫只能取自已驗證的數字框選列印版，依序提供逐題練習、模擬考試、錯題重做及 A4 列印。</p>
+  <p class="lede">所有法規測驗集中在這個專區，依主題分類並分批上線。可先縮小法規範圍，再進行逐題練習、模擬考試、錯題重做及 A4 列印。</p>
 
   <div class="meta-grid">
-    <div class="meta-card"><span class="k">已上線法規</span><div class="v"><span id="catalog-laws">—</span> <small>部</small></div></div>
+    <div class="meta-card"><span class="k">已上線法規</span><div class="v"><span id="catalog-ready">—</span> <small>部</small></div></div>
+    <div class="meta-card"><span class="k">待發布法規</span><div class="v"><span id="catalog-queued">—</span> <small>部</small></div></div>
     <div class="meta-card"><span class="k">填空題數</span><div class="v"><span id="catalog-questions">—</span> <small>題</small></div></div>
-    <div class="meta-card"><span class="k">來源框</span><div class="v"><span id="catalog-boxes">—</span> <small>個</small></div></div>
-    <div class="meta-card"><span class="k">題庫更新</span><div class="v"><span id="catalog-updated">—</span></div></div>
+    <div class="meta-card"><span class="k">發布批次</span><div class="v"><span id="catalog-batches">—</span> <small>批</small></div></div>
   </div>
 
   <div class="callout danger">
@@ -40,25 +40,29 @@
         <select id="catalog-category" class="quiz-input"><option value="">全部分類</option></select>
       </label>
       <label>
-        <span>排列方式</span>
-        <select id="catalog-sort" class="quiz-input">
-          <option value="title">法規名稱</option>
-          <option value="questions">題數多到少</option>
-          <option value="updated">修正日期新到舊</option>
+        <span>發布批次</span>
+        <select id="catalog-batch" class="quiz-input"><option value="">全部批次</option></select>
+      </label>
+      <label>
+        <span>發布狀態</span>
+        <select id="catalog-status" class="quiz-input">
+          <option value="">全部狀態</option>
+          <option value="ready">已上線／可練習</option>
+          <option value="queued">待發布</option>
         </select>
       </label>
     </div>
   </section>
 
-  <div class="catalog-result-meta"><strong id="catalog-result-count">0 部法規</strong><span>點選法規即可開始練習</span></div>
+  <div class="catalog-result-meta"><strong id="catalog-result-count">0 部法規</strong><span>綠色「已上線」項目可點選練習</span></div>
   <div id="catalog-loading" class="panel quiz-loading">正在載入題庫目錄……</div>
   <div id="catalog-error" class="panel quiz-error" hidden></div>
-  <main id="catalog-grid" class="catalog-grid" aria-live="polite"></main>
+  <main id="catalog-grid" class="catalog-groups" aria-live="polite"></main>
   <div id="catalog-empty" class="panel catalog-empty" hidden>找不到符合條件的法規，請調整搜尋文字或分類。</div>
 
   <footer>
     題庫來源：Obsidian「98_乙級職安管理員考題分析／數字填空訓練」。<br>
-    本專區只呈現已完成來源核對的題庫；後續新增法規會自動加入此目錄。
+    網頁題庫共規劃 11 批；待發布項目只顯示排程，不提供未驗證的作答連結。
   </footer>
 </div>
 </body>
