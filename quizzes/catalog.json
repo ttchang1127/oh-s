@@ -660,7 +660,16 @@
       "batch": 7,
       "batchTitle": "化學品管理制度",
       "order": "07-01",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 61,
+      "uniqueAnswerCount": 29,
+      "sourceBoxCount": 61,
+      "lastAmended": "107-11-09",
+      "url": "number-fill.html?law=N0060054",
+      "description": "標示、分類、通識與安全資料表的化學品管理門檻。",
+      "tags": [
+        "化學品管理"
+      ]
     },
     {
       "id": "N0060070",
@@ -669,7 +678,16 @@
       "batch": 7,
       "batchTitle": "化學品管理制度",
       "order": "07-02",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 17,
+      "uniqueAnswerCount": 8,
+      "sourceBoxCount": 17,
+      "lastAmended": "103-12-31",
+      "url": "number-fill.html?law=N0060070",
+      "description": "危害性化學品評估與分級管理門檻。",
+      "tags": [
+        "化學品管理"
+      ]
     },
     {
       "id": "N0060064",
@@ -678,7 +696,16 @@
       "batch": 7,
       "batchTitle": "化學品管理制度",
       "order": "07-03",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 41,
+      "uniqueAnswerCount": 26,
+      "sourceBoxCount": 41,
+      "lastAmended": "113-06-06",
+      "url": "number-fill.html?law=N0060064",
+      "description": "優先管理化學品指定、運作與申報期限。",
+      "tags": [
+        "化學品管理"
+      ]
     },
     {
       "id": "N0060068",
@@ -687,7 +714,16 @@
       "batch": 7,
       "batchTitle": "化學品管理制度",
       "order": "07-04",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 15,
+      "uniqueAnswerCount": 14,
+      "sourceBoxCount": 15,
+      "lastAmended": "103-12-31",
+      "url": "number-fill.html?law=N0060068",
+      "description": "管制性化學品許可、運作與變更管理期限。",
+      "tags": [
+        "化學品管理"
+      ]
     },
     {
       "id": "N0060069",
@@ -696,7 +732,16 @@
       "batch": 7,
       "batchTitle": "化學品管理制度",
       "order": "07-05",
-      "status": "queued"
+      "status": "ready",
+      "questionCount": 44,
+      "uniqueAnswerCount": 25,
+      "sourceBoxCount": 44,
+      "lastAmended": "114-08-08",
+      "url": "number-fill.html?law=N0060069",
+      "description": "新化學物質登記類型、數量級距與資料保存期限。",
+      "tags": [
+        "化學品管理"
+      ]
     },
     {
       "id": "N0060015",
