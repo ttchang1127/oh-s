@@ -131,7 +131,22 @@
       "description": "平均工資、契約與資遣、工時休假、童工女工、退休、職災補償、技術生與罰則的全框訓練。",
       "tags": ["勞動基準法", "工時", "特別休假", "退休", "職災補償", "罰則"]
     },
-    { "id": "N0030002", "title": "勞動基準法施行細則", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-04", "status": "queued" },
+    {
+      "id": "N0030002",
+      "title": "勞動基準法施行細則",
+      "category": "核心法規與勞動制度",
+      "batch": 2,
+      "batchTitle": "核心母法與施行細則",
+      "order": "02-04",
+      "status": "ready",
+      "questionCount": 48,
+      "uniqueAnswerCount": 37,
+      "sourceBoxCount": 48,
+      "lastAmended": "113-03-27",
+      "url": "number-fill.html?law=N0030002",
+      "description": "定期契約、競業禁止、工時與特休、職災補償、工作規則及勞動檢查的細則門檻。",
+      "tags": ["勞動基準法施行細則", "競業禁止", "特別休假", "職災補償", "工作規則"]
+    },
     { "id": "N0050031", "title": "勞工職業災害保險及保護法", "category": "核心法規與勞動制度", "batch": 2, "batchTitle": "核心母法與施行細則", "order": "02-05", "status": "queued" },
 
     { "id": "N0050039", "title": "勞工職業災害保險及保護法施行細則", "category": "核心法規與勞動制度", "batch": 3, "batchTitle": "檢查、職災與勞資制度", "order": "03-01", "status": "queued" },

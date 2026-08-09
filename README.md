@@ -42,3 +42,4 @@
 | [職業安全衛生法](quizzes/number-fill.html?law=N0060001) | 45 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [職業安全衛生法施行細則](quizzes/number-fill.html?law=N0060002) | 18 | 逐題練習、模擬考、錯題重做、A4列印 |
 | [勞動基準法](quizzes/number-fill.html?law=N0030001) | 183 | 逐題練習、模擬考、錯題重做、A4列印 |
+| [勞動基準法施行細則](quizzes/number-fill.html?law=N0030002) | 48 | 逐題練習、模擬考、錯題重做、A4列印 |
