@@ -38,6 +38,10 @@
 | [危險性機械設備檢查證有效年限](topics/machinery-certificate-validity.html) | 危險性機械及設備安全檢查規則 |
 | [營造作業主管、支柱與施工架](topics/construction-supervisors-and-scaffolds.html) | 營造安全衛生設施標準 |
 | [起重吊掛三角色與安全係數](topics/lifting-certificates-and-factors.html) | 起重升降機具安全規則 §10～§94 |
+| [特殊作業作息時間比較](topics/special-work-rest-periods.html) | 職業安全衛生法 §19及高溫、高架、精密、重體力、缺氧作業法規 |
+| [四法罰則與職業災害三法體系](topics/penalties-and-accident-law-system.html) | 職安法、勞基法、勞動檢查法、勞工職災保險及保護法 |
+| [高壓氣體分類判斷](topics/high-pressure-gas-categories.html) | 高壓氣體勞工安全規則 §2～§6 |
+| [危險物四類型與通道寬度](topics/facility-rules-quick-reference.html) | 職業安全衛生設施規則 §11～§14、§31～§37 |
 
 ## 互動填空
 
