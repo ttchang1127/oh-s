@@ -34,6 +34,10 @@
 | [職業災害通報](topics/occupational-accident-reporting.html) | 職業安全衛生法 §37～§38及施行細則 §43、§46-1～§51 |
 | [停工制度與申訴保護](topics/stop-work-and-appeal.html) | 職業安全衛生法 §18、§36、§39及勞動檢查法 §27～§33 |
 | [安全衛生組織、規章、計畫與紀錄](topics/osh-management-documents.html) | 職業安全衛生法 §23、§34及職業安全衛生管理辦法 |
+| [危險性機械設備三軸比較](topics/machinery-regulation-axes.html) | 職業安全衛生法 §7、§8、§16及施行細則 §12、§22～§24 |
+| [危險性機械設備檢查證有效年限](topics/machinery-certificate-validity.html) | 危險性機械及設備安全檢查規則 |
+| [營造作業主管、支柱與施工架](topics/construction-supervisors-and-scaffolds.html) | 營造安全衛生設施標準 |
+| [起重吊掛三角色與安全係數](topics/lifting-certificates-and-factors.html) | 起重升降機具安全規則 §10～§94 |
 
 ## 互動填空
 
