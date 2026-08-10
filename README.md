@@ -31,6 +31,9 @@
 | [勞工健康檢查與健康管理](topics/worker-health-examinations.html) | 職業安全衛生法 §20～§22及勞工健康保護規則 §16～§28 |
 | [母性健康保護與濃度風險分級](topics/maternal-health-risk.html) | 職業安全衛生法 §30～§31、女性勞工母性健康保護實施辦法及危害性化學品評估及分級管理辦法 |
 | [作業環境監測](topics/work-environment-monitoring.html) | 職業安全衛生法 §12、施行細則 §17及勞工作業環境監測實施辦法 |
+| [職業災害通報](topics/occupational-accident-reporting.html) | 職業安全衛生法 §37～§38及施行細則 §43、§46-1～§51 |
+| [停工制度與申訴保護](topics/stop-work-and-appeal.html) | 職業安全衛生法 §18、§36、§39及勞動檢查法 §27～§33 |
+| [安全衛生組織、規章、計畫與紀錄](topics/osh-management-documents.html) | 職業安全衛生法 §23、§34及職業安全衛生管理辦法 |
 
 ## 互動填空
 
