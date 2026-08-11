@@ -23,6 +23,9 @@
 | [特高壓充電電路接近界限](topics/high-voltage-clearance.html) | 職業安全衛生設施規則 §3、§260、§261、§263、§265 |
 | [自動檢查頻率總整理](topics/auto-inspection.html) | 職業安全衛生管理辦法 §13～§85 |
 | [CNS 45001 重點解析](topics/cns-45001.html) | CNS 45001:2018 |
+| [工作安全分析與安全衛生作業標準](topics/job-safety-analysis-and-safe-work-standards.html) | 職業安全衛生法 §23、職業安全衛生管理辦法 §12-1 |
+| [緊急應變計畫](topics/emergency-response-plan.html) | 職業安全衛生管理辦法 §12-2、§12-5、§12-6及職業安全衛生法 §37 |
+| [風險分級制度比較](topics/risk-level-systems.html) | 職安法 §11、化學品／母性／健檢／熱危害相關子法 |
 | [教育訓練時數總整理](topics/safety-training.html) | 職業安全衛生教育訓練規則 |
 | [114 年職安法修法重點](topics/osha-act-2025-amendment.html) | 職業安全衛生法 114 年 12 月 19 日修正 |
 | [壓力容器四方比較](topics/pressure-vessel-comparison.html) | 壓力設備與高壓氣體相關法規 |
