@@ -26,6 +26,11 @@
 | [工作安全分析與安全衛生作業標準](topics/job-safety-analysis-and-safe-work-standards.html) | 職業安全衛生法 §23、職業安全衛生管理辦法 §12-1 |
 | [緊急應變計畫](topics/emergency-response-plan.html) | 職業安全衛生管理辦法 §12-2、§12-5、§12-6及職業安全衛生法 §37 |
 | [風險分級制度比較](topics/risk-level-systems.html) | 職安法 §11、化學品／母性／健檢／熱危害相關子法 |
+| [工程安全分析與整體工程統合管理](topics/engineering-safety-analysis.html) | 職安法 §15、§15-1、§27-1及工程安全設計及整體工程統合管理辦法 |
+| [職場霸凌防治新制](topics/workplace-bullying-prevention.html) | 職安法 §22-1～§22-3及職場霸凌防治措施準則 |
+| [未成年工作者保護](topics/minor-worker-protection.html) | 勞基法 §44～§48、職安法 §29及禁止工作認定標準 |
+| [外送員與平台工作者保護](topics/delivery-platform-worker-protection.html) | 職安法 §51、§51-1及外送員權益保障及外送平臺管理法 |
+| [異常氣壓作業與潛水公告](topics/abnormal-pressure-and-diving.html) | 異常氣壓危害預防標準 §2、§17、§29、§34、§40 |
 | [教育訓練時數總整理](topics/safety-training.html) | 職業安全衛生教育訓練規則 |
 | [114 年職安法修法重點](topics/osha-act-2025-amendment.html) | 職業安全衛生法 114 年 12 月 19 日修正 |
 | [壓力容器四方比較](topics/pressure-vessel-comparison.html) | 壓力設備與高壓氣體相關法規 |
