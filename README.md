@@ -31,6 +31,8 @@
 | [未成年工作者保護](topics/minor-worker-protection.html) | 勞基法 §44～§48、職安法 §29及禁止工作認定標準 |
 | [外送員與平台工作者保護](topics/delivery-platform-worker-protection.html) | 職安法 §51、§51-1及外送員權益保障及外送平臺管理法 |
 | [異常氣壓作業與潛水公告](topics/abnormal-pressure-and-diving.html) | 異常氣壓危害預防標準 §2、§17、§29、§34、§40 |
+| [急救人員配置、資格與監造判斷](topics/first-aid-personnel.html) | 職安法 §6、§27、勞工健康保護規則 §15及教育訓練規則 §16、§18、§19、附表十三 |
+| [特定化學物質與五類化學品比較](topics/specific-and-regulated-chemicals.html) | 職安法 §10、§13、§14、施行細則及特定／優先管理／管制性化學品子法 |
 | [教育訓練時數總整理](topics/safety-training.html) | 職業安全衛生教育訓練規則 |
 | [114 年職安法修法重點](topics/osha-act-2025-amendment.html) | 職業安全衛生法 114 年 12 月 19 日修正 |
 | [壓力容器四方比較](topics/pressure-vessel-comparison.html) | 壓力設備與高壓氣體相關法規 |
