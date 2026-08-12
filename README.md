@@ -33,6 +33,9 @@
 | [異常氣壓作業與潛水公告](topics/abnormal-pressure-and-diving.html) | 異常氣壓危害預防標準 §2、§17、§29、§34、§40 |
 | [急救人員配置、資格與監造判斷](topics/first-aid-personnel.html) | 職安法 §6、§27、勞工健康保護規則 §15及教育訓練規則 §16、§18、§19、附表十三 |
 | [特定化學物質與五類化學品比較](topics/specific-and-regulated-chemicals.html) | 職安法 §10、§13、§14、施行細則及特定／優先管理／管制性化學品子法 |
+| [職安法 §43 與 §45 裁罰判斷](topics/osha-penalty-43-vs-45.html) | 職業安全衛生法 §43、§45 |
+| [職安法與勞基法雇主義務比較](topics/osha-vs-lsa-employer-duties.html) | 職業安全衛生法 §1、§5、§6、§37；勞動基準法 §1、§8、§21、§30、§59～§63 |
+| [職安法母法與施行細則對照導讀](topics/osha-act-and-enforcement-rules.html) | 職業安全衛生法與職業安全衛生法施行細則 |
 | [教育訓練時數總整理](topics/safety-training.html) | 職業安全衛生教育訓練規則 |
 | [114 年職安法修法重點](topics/osha-act-2025-amendment.html) | 職業安全衛生法 114 年 12 月 19 日修正 |
 | [壓力容器四方比較](topics/pressure-vessel-comparison.html) | 壓力設備與高壓氣體相關法規 |
