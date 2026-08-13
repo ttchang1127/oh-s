@@ -12,6 +12,7 @@
 - `topics/` — 各主題頁（分頁板塊式）
 - `quizzes/index.html` — 數字填空訓練專區與題庫搜尋
 - `quizzes/number-fill.html` — 共用互動填空引擎
+- `quizzes/mixed-exam.html` — 49 部法規綜合模擬考
 - `quizzes/catalog.json`、`quizzes/data/` — 11 批發布目錄、主題分類與各法規題庫資料
 - `assets/site.css` — 共用樣式
 - `assets/topic-finder.js` — 首頁關鍵字搜尋與六類篩選
@@ -64,6 +65,8 @@
 ## 互動填空
 
 [開啟數字填空訓練專區](quizzes/index.html)
+
+[開啟綜合模擬考](quizzes/mixed-exam.html)：可從全部 49 部法規或七大分類組成 20～100 題試卷，支援均衡抽題、計時、評分、逐題解析、錯題重做與 A4 列印。
 
 | 題庫 | 題數 | 功能 |
 | --- | ---: | --- |

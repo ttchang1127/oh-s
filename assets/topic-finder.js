@@ -3,6 +3,7 @@
 
   var categories = {
     'quizzes/index.html': ['training'],
+    'quizzes/mixed-exam.html': ['training'],
     'topics/ex-electrical.html': ['equipment'],
     'topics/high-voltage-clearance.html': ['equipment'],
     'topics/auto-inspection.html': ['management', 'equipment'],
@@ -79,7 +80,7 @@
     empty.hidden = visible !== 0;
     status.textContent = query || activeCategory !== 'all'
       ? '找到 ' + visible + ' 個入口'
-      : '共 38 個入口：37 個主題與 1 個數字填空訓練專區';
+      : '共 39 個入口：37 個主題與 2 個數字填空訓練入口';
   }
 
   filterButtons.forEach(function (button) {

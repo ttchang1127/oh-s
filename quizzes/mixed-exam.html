@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>綜合模擬考｜職安數字填空訓練</title>
+<meta name="description" content="從49部職業安全衛生法規、3,333題數字填空題庫隨機組卷，支援分類範圍、均衡抽題、計時、評分、解析、錯題重做與A4列印。">
+<link rel="stylesheet" href="../assets/site.css">
+<link rel="stylesheet" href="../assets/number-quiz.css">
+<script src="../assets/mixed-exam.js" defer></script>
+</head>
+<body>
+<div class="wrap quiz-shell mixed-exam-shell">
+  <a class="backlink screen-only" href="index.html">← 回數字填空訓練</a>
+
+  <header class="quiz-header screen-only">
+    <p class="eyebrow">49 部法規 · 3,333 題 · Cross-law Mock Exam</p>
+    <h1>綜合模擬考</h1>
+    <p class="lede">從全部已驗證的數字填空題庫即時組卷。答案仍依原框選文字判定，數字、單位及「以上／未滿／大於」等邊界詞都必須完整。</p>
+  </header>
+
+  <div class="meta-grid screen-only" aria-label="綜合題庫資訊">
+    <div class="meta-card"><span class="k">法規</span><div class="v"><span id="mixed-law-count">—</span> <small>部</small></div></div>
+    <div class="meta-card"><span class="k">完整題庫</span><div class="v"><span id="mixed-question-total">—</span> <small>題</small></div></div>
+    <div class="meta-card"><span class="k">分類</span><div class="v"><span id="mixed-category-count">—</span> <small>類</small></div></div>
+    <div class="meta-card"><span class="k">組卷方式</span><div class="v">即時 <small>隨機抽題</small></div></div>
+  </div>
+
+  <div id="mixed-loading" class="panel quiz-loading screen-only">正在載入題庫目錄……</div>
+  <div id="mixed-error" class="panel quiz-error screen-only" hidden></div>
+
+  <main id="mixed-setup" class="screen-only" hidden>
+    <section class="panel mixed-setup-panel" aria-labelledby="mixed-setup-title">
+      <h2 id="mixed-setup-title">設定試卷</h2>
+      <div class="mixed-control-grid">
+        <label>
+          <span>考試範圍</span>
+          <select id="mixed-category" class="quiz-input">
+            <option value="">全部 7 類／49 部法規</option>
+          </select>
+        </label>
+        <label>
+          <span>題數</span>
+          <select id="mixed-count" class="quiz-input">
+            <option value="20">20 題</option>
+            <option value="40">40 題</option>
+            <option value="60">60 題</option>
+            <option value="80">80 題</option>
+            <option value="100">100 題</option>
+          </select>
+        </label>
+        <label>
+          <span>抽題方式</span>
+          <select id="mixed-strategy" class="quiz-input">
+            <option value="balanced">跨法規均衡抽題</option>
+            <option value="weighted">依全部題目隨機</option>
+          </select>
+        </label>
+        <label>
+          <span>作答時間</span>
+          <select id="mixed-minutes" class="quiz-input">
+            <option value="0">不計時</option>
+            <option value="15">15 分鐘</option>
+            <option value="30" selected>30 分鐘</option>
+            <option value="45">45 分鐘</option>
+            <option value="60">60 分鐘</option>
+            <option value="90">90 分鐘</option>
+          </select>
+        </label>
+      </div>
+      <div class="callout mixed-scope-note">
+        <div class="callout-title">目前範圍</div>
+        <p id="mixed-scope-summary">正在計算可用題庫……</p>
+      </div>
+      <div class="callout warn">
+        <div class="callout-title">兩種抽題方式</div>
+        <p><strong>跨法規均衡</strong>會輪流從各部法規抽題，適合考前廣度檢查；<strong>依全部題目隨機</strong>則讓每一道題機率相同，大型法規會自然占較高比例。</p>
+      </div>
+      <button type="button" class="quiz-btn primary wide" id="mixed-start">開始組卷</button>
+    </section>
+  </main>
+
+  <main id="mixed-exam" class="screen-only" hidden>
+    <div class="mixed-exam-status" aria-label="考試狀態">
+      <div><span>範圍</span><strong id="mixed-status-scope">—</strong></div>
+      <div><span>題數</span><strong id="mixed-status-count">—</strong></div>
+      <div><span>已作答</span><strong id="mixed-answered">0／0</strong></div>
+      <div><span>剩餘時間</span><strong id="mixed-timer">不計時</strong></div>
+    </div>
+    <div class="quiz-progress" aria-label="作答進度"><span id="mixed-progress"></span></div>
+
+    <div id="mixed-questions" class="exam-list"></div>
+    <button type="button" class="quiz-btn primary wide" id="mixed-submit">交卷並評分</button>
+
+    <section id="mixed-result" class="mixed-result-panel" aria-labelledby="mixed-result-title" hidden>
+      <h2 id="mixed-result-title">本次成績</h2>
+      <div class="mixed-score-grid">
+        <div class="mixed-score-card primary-score"><span>完全正確</span><strong id="mixed-score">—</strong></div>
+        <div class="mixed-score-card"><span>部分正確</span><strong id="mixed-partial">—</strong></div>
+        <div class="mixed-score-card"><span>答錯</span><strong id="mixed-wrong">—</strong></div>
+        <div class="mixed-score-card"><span>未作答</span><strong id="mixed-blank">—</strong></div>
+        <div class="mixed-score-card"><span>作答時間</span><strong id="mixed-duration">—</strong></div>
+      </div>
+      <p id="mixed-result-message" class="quiz-result"></p>
+
+      <div class="mixed-result-actions">
+        <button type="button" class="quiz-btn primary" id="mixed-redo-wrong">錯題重做</button>
+        <button type="button" class="quiz-btn secondary" id="mixed-new-exam">重新組卷</button>
+        <button type="button" class="quiz-btn secondary" id="mixed-print">列印本卷＋答案</button>
+      </div>
+
+      <h3>分類表現</h3>
+      <div class="table-scroll"><table><thead><tr><th>分類</th><th>完全正確</th><th>題數</th><th>正確率</th></tr></thead><tbody id="mixed-category-breakdown"></tbody></table></div>
+
+      <div class="mixed-review-head">
+        <h3>逐題解析</h3>
+        <div class="mixed-review-filters" role="group" aria-label="解析篩選">
+          <button type="button" class="filter-chip active" data-review="all" aria-pressed="true">全部</button>
+          <button type="button" class="filter-chip" data-review="incorrect" aria-pressed="false">只看待加強</button>
+        </div>
+      </div>
+      <div id="mixed-review" class="mixed-review-list"></div>
+    </section>
+  </main>
+
+  <section id="mixed-print-view" class="print-only" aria-label="綜合模擬考試題與答案">
+    <h1>職安數字填空｜綜合模擬考</h1>
+    <p id="mixed-print-meta"></p>
+    <div id="mixed-print-questions"></div>
+    <section class="print-answer-sheet">
+      <h2>參考答案</h2>
+      <div id="mixed-print-answers"></div>
+    </section>
+  </section>
+
+  <footer class="screen-only">
+    題庫來源：49 部已驗證的數字框選列印版，共 3,333 題。每題均保留法規名稱、條號與來源內容。<br>
+    本頁為考試練習；實務適用請以主管機關最新公告為準。
+  </footer>
+</div>
+</body>
+</html>
