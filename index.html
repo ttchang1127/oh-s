@@ -32,6 +32,25 @@
     </div>
   </div>
 
+  <section class="topic-finder" aria-labelledby="topic-finder-title">
+    <h2 id="topic-finder-title">搜尋主題</h2>
+    <p>輸入法規、條號或考點，亦可先依學習類型篩選。</p>
+    <label class="topic-search-label" for="topic-search">關鍵字</label>
+    <input class="topic-search" id="topic-search" type="search" placeholder="例如：承攬、§43、化學品、施工架" autocomplete="off">
+    <div class="filter-chips" role="group" aria-label="主題分類">
+      <button class="filter-chip active" type="button" data-category="all" aria-pressed="true">全部</button>
+      <button class="filter-chip" type="button" data-category="law" aria-pressed="false">核心法規</button>
+      <button class="filter-chip" type="button" data-category="management" aria-pressed="false">管理制度</button>
+      <button class="filter-chip" type="button" data-category="health" aria-pressed="false">健康保護</button>
+      <button class="filter-chip" type="button" data-category="equipment" aria-pressed="false">設備營造</button>
+      <button class="filter-chip" type="button" data-category="chemical" aria-pressed="false">化學品</button>
+      <button class="filter-chip" type="button" data-category="training" aria-pressed="false">數字訓練</button>
+    </div>
+    <p class="topic-result-status" id="topic-result-status" aria-live="polite">共 38 個入口：37 個主題與 1 個數字填空訓練專區</p>
+  </section>
+
+  <p class="topic-empty-state" id="topic-empty-state" hidden>找不到符合條件的主題，請縮短關鍵字或切回「全部」。</p>
+
   <div class="panel">
     <h2>數字填空訓練</h2>
     <div class="topic-grid">
@@ -356,5 +375,6 @@
   </footer>
 
 </div>
+<script src="assets/topic-finder.js" defer></script>
 </body>
 </html>

@@ -14,6 +14,10 @@
 - `quizzes/number-fill.html` — 共用互動填空引擎
 - `quizzes/catalog.json`、`quizzes/data/` — 11 批發布目錄、主題分類與各法規題庫資料
 - `assets/site.css` — 共用樣式
+- `assets/topic-finder.js` — 首頁關鍵字搜尋與六類篩選
+- `assets/topic-relations.js` — 37 個主題頁的延伸學習關聯網絡
+
+首頁可用法規名稱、條號或考點即時搜尋，亦可依核心法規、管理制度、健康保護、設備營造、化學品及數字訓練篩選。每個主題頁底部均提供三個延伸學習入口。
 
 ## 目前主題
 
