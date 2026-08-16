@@ -275,6 +275,9 @@
     appendBadge(head, question.lawName, "pill teal");
     appendBadge(head, question.source, "pill");
     appendBadge(head, question.group, "pill");
+    if (question.effectiveFrom) {
+      appendBadge(head, "⚠ " + question.effectiveFrom + " 才施行", "pill future");
+    }
     var number = document.createElement("span");
     number.className = "quiz-question-number";
     number.textContent = "第 " + (index + 1) + " 題";

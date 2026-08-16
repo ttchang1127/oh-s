@@ -229,6 +229,14 @@
     var position = state.practiceIndex + 1;
     el.questionSource.textContent = question.source;
     el.questionGroup.textContent = question.group;
+    if (el.questionEffective) {
+      if (question.effectiveFrom) {
+        el.questionEffective.textContent = "⚠ " + question.effectiveFrom + " 才施行";
+        el.questionEffective.hidden = false;
+      } else {
+        el.questionEffective.hidden = true;
+      }
+    }
     el.questionNumber.textContent = "第 " + position + " 題";
     el.questionPrompt.textContent = displayPrompt(question.prompt);
     el.sourceText.textContent = question.sourceText;
@@ -429,6 +437,7 @@
     el.progressBar = byId("progress-bar");
     el.questionSource = byId("question-source");
     el.questionGroup = byId("question-group");
+    el.questionEffective = byId("question-effective");
     el.questionNumber = byId("question-number");
     el.questionPrompt = byId("question-prompt");
     el.practiceInput = byId("practice-input");

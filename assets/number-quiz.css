@@ -372,3 +372,7 @@
   .print-answer-sheet li { margin-bottom: 0.45rem; break-inside: avoid; }
   .mixed-exam-shell { max-width: none; padding: 0; }
 }
+
+.pill[hidden]{display:none !important}
+.pill.future{background:#7a2e00;color:#ffd9b0;border-color:#b4551f;font-weight:600}
+@media (prefers-color-scheme: light){.pill.future{background:#fff1e0;color:#8a3b00;border-color:#e0a970}}

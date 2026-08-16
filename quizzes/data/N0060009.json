@@ -190,7 +190,8 @@
       "group": "第1冊｜總則與工作場所通路",
       "prompt": "日間封閉車道或路肩 （另一數值條件），或夜間封閉 〔　〕，應訂定安全防護計畫。",
       "answer": "逾一小時",
-      "sourceText": "日間封閉車道或路肩 逾二小時，或夜間封閉 逾一小時，應訂定安全防護計畫。"
+      "sourceText": "日間封閉車道或路肩 逾二小時，或夜間封閉 逾一小時，應訂定安全防護計畫。",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q024",
@@ -198,7 +199,8 @@
       "group": "第1冊｜總則與工作場所通路",
       "prompt": "紀錄或文件應留存 <span class=\"future-rule\">〔　〕</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">（另一數值條件）</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>；施工架高度 <span class=\"future-rule\">（另一數值條件）</span>；開挖深度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>。",
       "answer": "三年",
-      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。"
+      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q025",
@@ -206,7 +208,8 @@
       "group": "第1冊｜總則與工作場所通路",
       "prompt": "紀錄或文件應留存 <span class=\"future-rule\">（另一數值條件）</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">〔　〕</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>；施工架高度 <span class=\"future-rule\">（另一數值條件）</span>；開挖深度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>。",
       "answer": "二公尺以上",
-      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。"
+      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q026",
@@ -214,7 +217,8 @@
       "group": "第1冊｜總則與工作場所通路",
       "prompt": "紀錄或文件應留存 <span class=\"future-rule\">（另一數值條件）</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">（另一數值條件）</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">〔　〕</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>；施工架高度 <span class=\"future-rule\">（另一數值條件）</span>；開挖深度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>。",
       "answer": "七公尺以上",
-      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。"
+      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q027",
@@ -222,7 +226,8 @@
       "group": "第1冊｜總則與工作場所通路",
       "prompt": "紀錄或文件應留存 <span class=\"future-rule\">（另一數值條件）</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">（另一數值條件）</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">〔　〕</span>；施工架高度 <span class=\"future-rule\">（另一數值條件）</span>；開挖深度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>。",
       "answer": "一百平方公尺以上",
-      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。"
+      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q028",
@@ -230,7 +235,8 @@
       "group": "第1冊｜總則與工作場所通路",
       "prompt": "紀錄或文件應留存 <span class=\"future-rule\">（另一數值條件）</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">（另一數值條件）</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>；施工架高度 <span class=\"future-rule\">〔　〕</span>；開挖深度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>。",
       "answer": "五十公尺以上",
-      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。"
+      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q029",
@@ -238,7 +244,8 @@
       "group": "第1冊｜總則與工作場所通路",
       "prompt": "紀錄或文件應留存 <span class=\"future-rule\">（另一數值條件）</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">（另一數值條件）</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">（另一數值條件）</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>；施工架高度 <span class=\"future-rule\">（另一數值條件）</span>；開挖深度 <span class=\"future-rule\">〔　〕</span> 且面積 <span class=\"future-rule\">（另一數值條件）</span>。",
       "answer": "十八公尺以上",
-      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。"
+      "sourceText": "紀錄或文件應留存 <span class=\"future-rule\">三年</span>。適用門檻包括：影視拍攝於高度 <span class=\"future-rule\">二公尺以上</span> 的邊緣或開口；模板支撐高度 <span class=\"future-rule\">七公尺以上</span> 且面積 <span class=\"future-rule\">一百平方公尺以上</span>；施工架高度 <span class=\"future-rule\">五十公尺以上</span>；開挖深度 <span class=\"future-rule\">十八公尺以上</span> 且面積 <span class=\"future-rule\">五百平方公尺</span>。",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q030",
@@ -1022,7 +1029,8 @@
       "group": "第4冊｜爆炸火災及腐蝕洩漏",
       "prompt": "〔　〕是目前生效規定；§185-1～§185-4 為 116 年 1 月 1 日始生效，使用虛線框。",
       "answer": "實線框",
-      "sourceText": "實線框是目前生效規定；§185-1～§185-4 為 116 年 1 月 1 日始生效，使用虛線框。"
+      "sourceText": "實線框是目前生效規定；§185-1～§185-4 為 116 年 1 月 1 日始生效，使用虛線框。",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q128",
@@ -1030,7 +1038,8 @@
       "group": "第4冊｜爆炸火災及腐蝕洩漏",
       "prompt": "§170 ； 危險物品倉庫建築高度 〔　〕 應裝避雷裝置",
       "answer": "三公尺以上",
-      "sourceText": "§170 ； 危險物品倉庫建築高度 三公尺以上 應裝避雷裝置"
+      "sourceText": "§170 ； 危險物品倉庫建築高度 三公尺以上 應裝避雷裝置",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q129",
@@ -1038,7 +1047,8 @@
       "group": "第4冊｜爆炸火災及腐蝕洩漏",
       "prompt": "§177 ； 蒸氣或氣體濃度達爆炸下限值 〔　〕 應退避、停用火源並加強通風",
       "answer": "百分之三十以上",
-      "sourceText": "§177 ； 蒸氣或氣體濃度達爆炸下限值 百分之三十以上 應退避、停用火源並加強通風"
+      "sourceText": "§177 ； 蒸氣或氣體濃度達爆炸下限值 百分之三十以上 應退避、停用火源並加強通風",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q130",
@@ -1046,7 +1056,8 @@
       "group": "第4冊｜爆炸火災及腐蝕洩漏",
       "prompt": "§178 ； 以表壓力 〔　〕 輸送腐蝕性液體時，連結用具須防脫落",
       "answer": "每平方公分二公斤以上",
-      "sourceText": "§178 ； 以表壓力 每平方公分二公斤以上 輸送腐蝕性液體時，連結用具須防脫落"
+      "sourceText": "§178 ； 以表壓力 每平方公分二公斤以上 輸送腐蝕性液體時，連結用具須防脫落",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q131",
@@ -1054,7 +1065,8 @@
       "group": "第4冊｜爆炸火災及腐蝕洩漏",
       "prompt": "§185-1 四氫化矽 ； 紀錄或文件留存 <span class=\"future-rule\">〔　〕</span>",
       "answer": "三年",
-      "sourceText": "§185-1 四氫化矽 ； 紀錄或文件留存 <span class=\"future-rule\">三年</span>"
+      "sourceText": "§185-1 四氫化矽 ； 紀錄或文件留存 <span class=\"future-rule\">三年</span>",
+      "effectiveFrom": "116-01-01"
     },
     {
       "id": "q132",
