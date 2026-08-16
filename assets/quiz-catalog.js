@@ -53,6 +53,9 @@
       appendPill(stats, item.questionCount + " 題", "pill red");
       appendPill(stats, item.uniqueAnswerCount + " 種答案", "pill");
       appendPill(stats, item.sourceBoxCount + " 個來源框", "pill");
+      if (item.notYetEffectiveCount) {
+        appendPill(stats, "⚠ " + item.notYetEffectiveCount + " 題尚未生效", "pill future");
+      }
     } else {
       appendPill(stats, item.order + " 發布順序", "pill");
     }
@@ -142,6 +145,7 @@
     el.queued.textContent = state.items.length - ready.length;
     el.questions.textContent = total(ready, "questionCount");
     el.batches.textContent = catalog.plannedBatches || new Set(state.items.map(function (item) { return item.batch; })).size;
+    if (el.future) { el.future.textContent = total(ready, "notYetEffectiveCount"); }
 
     state.categories.forEach(function (category) {
       var option = document.createElement("option");
@@ -174,6 +178,7 @@
     el.queued = byId("catalog-queued");
     el.questions = byId("catalog-questions");
     el.batches = byId("catalog-batches");
+    el.future = byId("catalog-future");
     el.search = byId("catalog-search");
     el.category = byId("catalog-category");
     el.batch = byId("catalog-batch");
